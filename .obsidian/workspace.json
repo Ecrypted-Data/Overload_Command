@@ -13,38 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "战备待办事项/战队总待办.md",
+                "file": "CRTC战备资料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "战队总待办"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d108116e6d53ac5f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "54add7d8da2ff445",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "战备待办事项/战队总待办.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "战队总待办"
+              "title": "CRTC战备资料"
             }
           }
         ]
@@ -168,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "战备待办事项/战队总待办.md",
+                "file": "CRTC战备资料.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "战队总待办 的大纲"
+              "title": "CRTC战备资料 的大纲"
             }
           },
           {
@@ -207,21 +181,21 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d2854b7cbe8d1620",
+  "active": "73cdc6ee3093e94d",
   "lastOpenFiles": [
-    "战备待办事项/视觉组待办.md",
-    "战备待办事项/电控组待办 - 副本.md",
-    "战备待办事项/硬件组待办.md",
-    "战备待办事项/电控组待办.md",
-    "战备待办事项/机械组待办 - 副本.md",
-    "战备待办事项/机械组待办.md",
     "战备待办事项/战队总待办.md",
+    "CRTC战备资料.md",
+    "战备待办事项/电控组待办.md",
+    "战备待办事项/机械组待办.md",
+    "战备待办事项/视觉组待办.md",
+    "战备待办事项/硬件组待办.md",
+    "战备待办事项/电控组待办 - 副本.md",
+    "战备待办事项/机械组待办 - 副本.md",
     "README.md",
     "战备待办事项/未命名.canvas",
     "战备待办事项",
     "比赛初步设计方案内容规范.md",
     "a.md",
-    "CRTC战备资料.md",
     "比赛初步设计方案收集"
   ]
 }
