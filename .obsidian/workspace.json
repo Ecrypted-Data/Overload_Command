@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRTC战备资料.md",
+                "file": "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRTC战备资料"
+              "title": "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2"
             }
           }
         ]
@@ -181,11 +181,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d2854b7cbe8d1620",
+  "active": "73cdc6ee3093e94d",
   "lastOpenFiles": [
+    "CRTC战备资料.md",
     "docs",
     "2025CRTC参赛手册 · v0.2.pdf",
-    "CRTC战备资料.md",
     "战备待办事项/战队总待办.md",
     "战备待办事项/电控组待办.md",
     "战备待办事项/机械组待办.md",
