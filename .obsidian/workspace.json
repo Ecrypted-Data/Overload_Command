@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 376.5
   },
   "right": {
     "id": "7c3ef2a1f07eea6a",
@@ -181,9 +181,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "73cdc6ee3093e94d",
+  "active": "d2854b7cbe8d1620",
   "lastOpenFiles": [
+    "README.md",
     "CRTC战备资料.md",
+    "2025重庆大学机器人训练大赛 MATLABSimulink 创新奖 奖项通知.docx",
+    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
+    "1.docx",
     "docs",
     "2025CRTC参赛手册 · v0.2.pdf",
     "战备待办事项/战队总待办.md",
@@ -193,7 +197,6 @@
     "战备待办事项/硬件组待办.md",
     "战备待办事项/电控组待办 - 副本.md",
     "战备待办事项/机械组待办 - 副本.md",
-    "README.md",
     "战备待办事项/未命名.canvas",
     "战备待办事项",
     "比赛初步设计方案内容规范.md",
