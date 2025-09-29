@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73cdc6ee3093e94d",
+            "id": "a7181aaab384bb2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2"
             }
+          },
+          {
+            "id": "2f3469157a139eb0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2025CRTC参赛手册 · v0.2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2025CRTC参赛手册 · v0.2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,16 +194,23 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d2854b7cbe8d1620",
+  "active": "2f3469157a139eb0",
   "lastOpenFiles": [
-    "README.md",
-    "CRTC战备资料.md",
-    "2025重庆大学机器人训练大赛 MATLABSimulink 创新奖 奖项通知.docx",
     "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
-    "1.docx",
-    "docs",
+    "比赛初步设计方案内容规范.md",
+    "机器人大赛策略分析.md",
     "2025CRTC参赛手册 · v0.2.pdf",
     "战备待办事项/战队总待办.md",
+    "未确认 487782.crdownload",
+    "README.md",
+    "MATLABSimulink创新奖奖项通知.docx",
+    "docs/MATLABSimulink创新奖奖项通知.docx",
+    "~$MATLABSimulink创新奖奖项通知.tmp",
+    "2025重庆大学机器人训练大赛 MATLABSimulink 创新奖 奖项通知.docx",
+    "docs/2025重庆大学机器人训练大赛 MATLABSimulink 创新奖 奖项通知.docx",
+    "CRTC战备资料.md",
+    "1.docx",
+    "docs",
     "战备待办事项/电控组待办.md",
     "战备待办事项/机械组待办.md",
     "战备待办事项/视觉组待办.md",
@@ -199,8 +219,6 @@
     "战备待办事项/机械组待办 - 副本.md",
     "战备待办事项/未命名.canvas",
     "战备待办事项",
-    "比赛初步设计方案内容规范.md",
-    "a.md",
-    "比赛初步设计方案收集"
+    "a.md"
   ]
 }
