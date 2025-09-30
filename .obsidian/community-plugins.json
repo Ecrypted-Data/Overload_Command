@@ -3,5 +3,6 @@
   "obsidian-tasks-plugin",
   "obsidian-export-image",
   "obsidian-git",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "make-md"
 ]
