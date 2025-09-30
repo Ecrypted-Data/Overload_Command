@@ -25,12 +25,14 @@
             "id": "2f3469157a139eb0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2025CRTC参赛手册 · v0.2.pdf"
+                "file": "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2025CRTC参赛手册 · v0.2"
+              "icon": "lucide-file",
+              "title": "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2"
             }
           }
         ],
@@ -196,12 +198,12 @@
   },
   "active": "2f3469157a139eb0",
   "lastOpenFiles": [
+    "2025CRTC参赛手册 · v0.2.pdf",
     "比赛初步设计方案收集/肖弋铭设计方案_alpha.docx",
     "比赛初步设计方案收集/ea6ee883dd4501ee7d489920c7958ebb.par.temp",
     "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
     "比赛初步设计方案内容规范.md",
     "机器人大赛策略分析.md",
-    "2025CRTC参赛手册 · v0.2.pdf",
     "战备待办事项/战队总待办.md",
     "未确认 487782.crdownload",
     "README.md",
