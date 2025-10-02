@@ -11,12 +11,14 @@
             "id": "5cf01348ed6dc716",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "比赛初步设计方案收集"
+                "file": "CRTC 2025 比赛策略.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "比赛初步设计方案收集"
+              "title": "CRTC 2025 比赛策略"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "01119990543d2bfc",
+            "id": "2f14f3ecdb76d9d4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -190,8 +192,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "01119990543d2bfc",
+  "active": "5cf01348ed6dc716",
   "lastOpenFiles": [
+    "机器人大赛策略分析.md",
+    "CRTC 2025 比赛策略.md",
     "比赛初步设计方案收集/孔京成设计方案.jpg",
     "比赛初步设计方案收集/孔京成方案.jpg",
     "比赛初步设计方案收集/370abbd2d967bd6a3f5a7f21004ad677_720.jpg",
@@ -206,7 +210,6 @@
     "Vault.md",
     "视觉组资料/视觉组资料.md",
     "视觉组资料",
-    "Untitled.md",
     "机械组资料/机械组资料.md",
     "机械组资料",
     "硬件组资料/硬件组资料.md",
@@ -225,7 +228,6 @@
     "战备待办事项/硬件组待办.md",
     "战备待办事项/战队总待办.md",
     "群内提问规范.jpg",
-    "机器人大赛策略分析.md",
     "Tags",
     "2025CRTC参赛手册 · v0.3.pdf",
     "9f371138b8b326c3a71f73af16dfd05c.par.temp",
