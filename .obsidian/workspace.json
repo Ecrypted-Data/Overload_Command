@@ -11,14 +11,12 @@
             "id": "5cf01348ed6dc716",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "path": "比赛初步设计方案收集"
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "比赛初步设计方案收集"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "73a5e12d006c5e47",
+            "id": "01119990543d2bfc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -192,14 +190,19 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "5cf01348ed6dc716",
+  "active": "01119990543d2bfc",
   "lastOpenFiles": [
+    "比赛初步设计方案收集/孔京成设计方案.jpg",
+    "比赛初步设计方案收集/孔京成方案.jpg",
+    "比赛初步设计方案收集/370abbd2d967bd6a3f5a7f21004ad677_720.jpg",
+    "电控组资料/电控组资料.md",
+    "2025CRTC参赛手册 · v0.2.pdf",
+    "README.md",
     "任务总览.md",
     "机械组资料/机械组资源.md",
     "CRTC战备资料.md",
     "硬件组资料/硬件组资源.md",
     "电控组资料/电控组资源.md",
-    "电控组资料/电控组资料.md",
     "Vault.md",
     "视觉组资料/视觉组资料.md",
     "视觉组资料",
@@ -223,14 +226,11 @@
     "战备待办事项/战队总待办.md",
     "群内提问规范.jpg",
     "机器人大赛策略分析.md",
-    "README.md",
     "Tags",
     "2025CRTC参赛手册 · v0.3.pdf",
     "9f371138b8b326c3a71f73af16dfd05c.par.temp",
-    "2025CRTC参赛手册 · v0.2.pdf",
     "比赛初步设计方案内容规范.md",
     "战备待办事项/电控组待办 - 副本.md",
-    "战备待办事项/机械组待办 - 副本.md",
     "战备待办事项/未命名.canvas"
   ]
 }
