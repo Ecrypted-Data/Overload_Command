@@ -48,7 +48,8 @@
   "spaceSubFolder": ".space",
   "hiddenFiles": [
     "Tags",
-    "群内提问规范.jpg"
+    "群内提问规范.jpg",
+    "gitignore"
   ],
   "hiddenExtensions": [
     ".mdb",

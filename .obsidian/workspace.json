@@ -11,12 +11,20 @@
             "id": "5cf01348ed6dc716",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "2025CRTC参赛手册 · v0.3.pdf"
+                "file": "战备待办事项/视觉组待办.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "2025CRTC参赛手册 · v0.3"
+              "icon": "lucide-trello",
+              "title": "视觉组待办"
             }
           }
         ]
@@ -73,7 +81,7 @@
             }
           },
           {
-            "id": "f086253f43230205",
+            "id": "fafdfb3e10499813",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -190,8 +198,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "fafdfb3e10499813",
   "lastOpenFiles": [
+    "gitignore",
+    "新建文本文档.txt",
     "2025CRTC参赛手册 · v0.3.pdf",
     "conflict-files-obsidian-git.md",
     "机器人大赛策略分析.md",
@@ -229,7 +239,6 @@
     "战备待办事项/战队总待办.md",
     "群内提问规范.jpg",
     "Tags",
-    "9f371138b8b326c3a71f73af16dfd05c.par.temp",
     "比赛初步设计方案内容规范.md",
     "战备待办事项/未命名.canvas"
   ]
