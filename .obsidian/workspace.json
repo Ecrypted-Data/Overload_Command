@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "fafdfb3e10499813",
+            "id": "d06d4bf5c777f216",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -198,10 +198,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "5cf01348ed6dc716",
   "lastOpenFiles": [
-    "战备待办事项/视觉组待办.md",
+    "战备待办事项/硬件组待办.md",
     "战备待办事项/机械组待办.md",
+    "战备待办事项/视觉组待办.md",
     "gitignore",
     "新建文本文档.txt",
     "2025CRTC参赛手册 · v0.3.pdf",
@@ -235,7 +236,6 @@
     "docs/一号机器人开发日志.md",
     "docs/比赛策略设计.md",
     "战备待办事项/电控组待办.md",
-    "战备待办事项/硬件组待办.md",
     "战备待办事项/战队总待办.md",
     "群内提问规范.jpg",
     "比赛初步设计方案内容规范.md",
