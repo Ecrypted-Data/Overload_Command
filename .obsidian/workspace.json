@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "战备待办事项/视觉组待办.md",
+                "file": "战备待办事项/机械组待办.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -24,7 +24,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "视觉组待办"
+              "title": "机械组待办"
             }
           }
         ]
@@ -198,8 +198,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "fafdfb3e10499813",
+  "active": "20df0f3d6e4c5c35",
   "lastOpenFiles": [
+    "战备待办事项/视觉组待办.md",
+    "战备待办事项/机械组待办.md",
     "gitignore",
     "新建文本文档.txt",
     "2025CRTC参赛手册 · v0.3.pdf",
@@ -225,12 +227,10 @@
     "硬件组资料/硬件组资料.md",
     "硬件组资料",
     "电控组资料",
-    "战备待办事项/视觉组待办.md",
     "电控组资料/电控培训采用什么软件？.docx",
     "504b1bd420968ce383b5fa2a1f38a959.par.temp",
     "docs/队员学习日志.md",
     "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
-    "战备待办事项/机械组待办.md",
     "docs/二号机器人开发日志.md",
     "docs/一号机器人开发日志.md",
     "docs/比赛策略设计.md",
@@ -238,7 +238,6 @@
     "战备待办事项/硬件组待办.md",
     "战备待办事项/战队总待办.md",
     "群内提问规范.jpg",
-    "Tags",
     "比赛初步设计方案内容规范.md",
     "战备待办事项/未命名.canvas"
   ]
