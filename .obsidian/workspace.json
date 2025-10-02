@@ -11,14 +11,12 @@
             "id": "5cf01348ed6dc716",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CRTC 2025 比赛策略.md",
-                "mode": "source",
-                "source": false
+                "file": "2025CRTC参赛手册 · v0.3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CRTC 2025 比赛策略"
+              "icon": "lucide-file-text",
+              "title": "2025CRTC参赛手册 · v0.3"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "2f14f3ecdb76d9d4",
+            "id": "1aa03b67c31b1c12",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
