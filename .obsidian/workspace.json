@@ -26,8 +26,23 @@
               "icon": "lucide-trello",
               "title": "硬件组待办"
             }
+          },
+          {
+            "id": "fbd39ec84812c753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,8 +213,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "5cf01348ed6dc716",
+  "active": "fbd39ec84812c753",
   "lastOpenFiles": [
+    "战备待办事项/硬件组待办.md",
+    "conflict-files-obsidian-git.md",
     "任务总览.md",
     "机械组资料/机械组资源.md",
     "硬件组资料/硬件组资源.md",
@@ -208,7 +225,6 @@
     "电控组资料/电控组资源.md",
     "电控组资料/电控培训第一讲.pptx",
     "电控组资料/f32ef4a305635648234c2d471240b6d0.par.temp",
-    "战备待办事项/硬件组待办.md",
     "战备待办事项/战队总待办.md",
     "机器人大赛策略分析.md",
     "战备待办事项/战备待办事项.md",
@@ -218,7 +234,6 @@
     "gitignore",
     "新建文本文档.txt",
     "2025CRTC参赛手册 · v0.3.pdf",
-    "conflict-files-obsidian-git.md",
     "CRTC 2025 比赛策略.md",
     "比赛初步设计方案收集/孔京成设计方案.jpg",
     "比赛初步设计方案收集/孔京成方案.jpg",
