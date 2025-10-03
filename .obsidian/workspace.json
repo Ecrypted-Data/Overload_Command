@@ -13,10 +13,13 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "战备待办事项/硬件组待办.md",
+                "file": "战备待办事项/电控组待办.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
+                    false,
                     false,
                     false,
                     false
@@ -24,7 +27,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "硬件组待办"
+              "title": "电控组待办"
             }
           }
         ]
@@ -198,7 +201,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "5cf01348ed6dc716",
   "lastOpenFiles": [
     "战备待办事项/硬件组待办.md",
     "conflict-files-obsidian-git.md",
