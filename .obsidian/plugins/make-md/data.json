@@ -38,9 +38,7 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//战备待办事项",
-    "//电控组资料"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
