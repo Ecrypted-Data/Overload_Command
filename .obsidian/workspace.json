@@ -11,20 +11,14 @@
             "id": "5cf01348ed6dc716",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "战备待办事项/硬件组待办.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "任务总览.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "硬件组待办"
+              "icon": "lucide-file",
+              "title": "任务总览"
             }
           }
         ]
@@ -81,7 +75,7 @@
             }
           },
           {
-            "id": "edf48afb86647b76",
+            "id": "c58152e0e3675803",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -198,7 +192,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "5cf01348ed6dc716",
   "lastOpenFiles": [
     "战备待办事项/硬件组待办.md",
     "conflict-files-obsidian-git.md",
