@@ -39,8 +39,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//战备待办事项",
-    "//比赛初步设计方案收集"
+    "//战备待办事项"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
