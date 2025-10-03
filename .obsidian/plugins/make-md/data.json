@@ -38,7 +38,8 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//战备待办事项"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
