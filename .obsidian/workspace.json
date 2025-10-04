@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "412a4ed5c4dbc237",
+        "id": "9898fe3f7bbf6d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "5cf01348ed6dc716",
+            "id": "b0a43fade2b986a5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "战备待办事项/电控组待办.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "电控组待办"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -84,7 +71,7 @@
             }
           },
           {
-            "id": "edf48afb86647b76",
+            "id": "1bffb394f7ff4371",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -201,8 +188,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "5cf01348ed6dc716",
+  "active": "20df0f3d6e4c5c35",
   "lastOpenFiles": [
+    "Tags",
     "conflict-files-obsidian-git.md",
     "战备待办事项/电控组待办.md",
     "战备待办事项/硬件组待办.md",
