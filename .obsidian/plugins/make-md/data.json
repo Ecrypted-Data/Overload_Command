@@ -39,7 +39,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//战备待办事项"
+    "//战备待办事项",
+    "//硬件组资料"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

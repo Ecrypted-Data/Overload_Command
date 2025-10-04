@@ -11,23 +11,29 @@
             "id": "5cf01348ed6dc716",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "战备待办事项/电控组待办.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+                "viewState": {
+                  "x": 567.1585829993617,
+                  "y": -123.3398576505388,
+                  "zoom": -0.3333333333333333
                 }
               },
-              "icon": "lucide-trello",
-              "title": "电控组待办"
+              "icon": "lucide-layout-dashboard",
+              "title": "1号机器人 硬件电路拓扑图"
+            }
+          },
+          {
+            "id": "02d9e49eca8039b3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2025CRTC参赛手册 · v0.3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2025CRTC参赛手册 · v0.3"
             }
           }
         ]
@@ -84,7 +90,7 @@
             }
           },
           {
-            "id": "edf48afb86647b76",
+            "id": "dcc1d6472ea746be",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -203,11 +209,20 @@
   },
   "active": "5cf01348ed6dc716",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "战备待办事项/电控组待办.md",
-    "战备待办事项/硬件组待办.md",
-    "战备待办事项/战队总待办.md",
+    "2025CRTC参赛手册 · v0.3.pdf",
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "硬件组资料/无线控制直流单路继电器.png",
+    "硬件组资料/33GB-520电机 孔位孔径.png",
+    "硬件组资料/33GB-520电机 基础尺寸.png",
+    "硬件组资料/L298N 驱动板.png",
+    "//Untitled.canvas",
+    "Pasted image 20251004154624.png",
+    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
     "任务总览.md",
+    "战备待办事项/硬件组待办.md",
+    "战备待办事项/电控组待办.md",
+    "conflict-files-obsidian-git.md",
+    "战备待办事项/战队总待办.md",
     "机械组资料/机械组资源.md",
     "硬件组资料/硬件组资源.md",
     "战备待办事项/机械组待办.md",
@@ -221,7 +236,6 @@
     "战备待办事项/视觉组待办.md",
     "gitignore",
     "新建文本文档.txt",
-    "2025CRTC参赛手册 · v0.3.pdf",
     "CRTC 2025 比赛策略.md",
     "比赛初步设计方案收集/孔京成设计方案.jpg",
     "比赛初步设计方案收集/孔京成方案.jpg",
@@ -237,7 +251,6 @@
     "硬件组资料/硬件组资料.md",
     "硬件组资料",
     "docs/队员学习日志.md",
-    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
     "docs/二号机器人开发日志.md",
     "docs/一号机器人开发日志.md",
     "docs/比赛策略设计.md",
