@@ -11,20 +11,14 @@
             "id": "5cf01348ed6dc716",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "战备待办事项/硬件组待办.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "docs/队员学习日志.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "硬件组待办"
+              "icon": "lucide-file",
+              "title": "队员学习日志"
             }
           },
           {
@@ -47,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRTC战备资料.md",
+                "file": "电控组资料/电控组资源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRTC战备资料"
+              "title": "电控组资源"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +104,7 @@
             }
           },
           {
-            "id": "459cf5c245f6b96f",
+            "id": "471482f01b4b1768",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,17 +221,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "2258db3a194748b1",
+  "active": "02d9e49eca8039b3",
   "lastOpenFiles": [
-    "战备待办事项/硬件组待办.md",
     "CRTC战备资料.md",
+    "docs/队员学习日志.md",
+    "战备待办事项/硬件组待办.md",
+    "任务总览.md",
     "战备待办事项/电控组待办.md",
     "战备待办事项/机械组待办.md",
-    "任务总览.md",
     "硬件组资料/硬件组资料.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "docs/队员学习日志.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "Pasted image 20251004225303.png",
     "战备待办事项/战队总待办.md",
