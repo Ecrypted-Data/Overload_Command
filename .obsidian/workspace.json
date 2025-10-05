@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "任务总览.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "任务总览"
             }
           },
           {
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "21c919afa1f8acb6",
+            "id": "131cf923895b9ef7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -206,16 +206,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "5cf01348ed6dc716",
   "lastOpenFiles": [
+    "硬件组资料/硬件组资料.md",
+    "任务总览.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "docs/队员学习日志.md",
-    "硬件组资料/硬件组资料.md",
     "CRTC战备资料.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "战备待办事项/机械组待办.md",
-    "任务总览.md",
     "Pasted image 20251004225303.png",
     "战备待办事项/战队总待办.md",
     "2025CRTC参赛手册 · v0.3.pdf",
