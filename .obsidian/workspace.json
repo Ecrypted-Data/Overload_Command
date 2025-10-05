@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "电控组资源"
             }
+          },
+          {
+            "id": "c8dff83185de37ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,8 +235,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "02d9e49eca8039b3",
+  "active": "c8dff83185de37ca",
   "lastOpenFiles": [
+    "电控组资料/电控组资源.md",
+    "conflict-files-obsidian-git.md",
     "CRTC战备资料.md",
     "docs/队员学习日志.md",
     "战备待办事项/硬件组待办.md",
@@ -231,7 +247,6 @@
     "战备待办事项/机械组待办.md",
     "硬件组资料/硬件组资料.md",
     "README.md",
-    "conflict-files-obsidian-git.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "Pasted image 20251004225303.png",
     "战备待办事项/战队总待办.md",
@@ -247,7 +262,6 @@
     "Pasted image 20251004154624.png",
     "机械组资料/机械组资源.md",
     "硬件组资料/硬件组资源.md",
-    "电控组资料/电控组资源.md",
     "电控组资料/电控培训第一讲.pptx",
     "电控组资料/f32ef4a305635648234c2d471240b6d0.par.temp",
     "机器人大赛策略分析.md",
