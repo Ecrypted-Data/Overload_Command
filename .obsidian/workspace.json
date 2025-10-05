@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,14 +221,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "2258db3a194748b1",
   "lastOpenFiles": [
-    "电控组资料/电控组资源.md",
+    "docs/队员学习日志.md",
     "conflict-files-obsidian-git.md",
+    "电控组资料/电控组资源.md",
     "docs/[[docs2025-10-5.md2025-10-5]].md",
     "docs/2025-10-5.md",
     "CRTC战备资料.md",
-    "docs/队员学习日志.md",
     "战备待办事项/硬件组待办.md",
     "任务总览.md",
     "战备待办事项/电控组待办.md",
