@@ -11,10 +11,30 @@
             "id": "5cf01348ed6dc716",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "战备待办事项/硬件组待办.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "硬件组待办"
+            }
+          },
+          {
+            "id": "2258db3a194748b1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "任务总览.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -35,7 +55,8 @@
               "title": "CRTC战备资料"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +110,7 @@
             }
           },
           {
-            "id": "131cf923895b9ef7",
+            "id": "459cf5c245f6b96f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -206,16 +227,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "5cf01348ed6dc716",
+  "active": "2258db3a194748b1",
   "lastOpenFiles": [
-    "硬件组资料/硬件组资料.md",
+    "战备待办事项/硬件组待办.md",
+    "CRTC战备资料.md",
+    "战备待办事项/电控组待办.md",
+    "战备待办事项/机械组待办.md",
     "任务总览.md",
+    "硬件组资料/硬件组资料.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "docs/队员学习日志.md",
-    "CRTC战备资料.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-    "战备待办事项/机械组待办.md",
     "Pasted image 20251004225303.png",
     "战备待办事项/战队总待办.md",
     "2025CRTC参赛手册 · v0.3.pdf",
@@ -228,8 +251,6 @@
     "硬件组资料/L298N 驱动板.png",
     "//Untitled.canvas",
     "Pasted image 20251004154624.png",
-    "战备待办事项/硬件组待办.md",
-    "战备待办事项/电控组待办.md",
     "机械组资料/机械组资源.md",
     "硬件组资料/硬件组资源.md",
     "电控组资料/电控组资源.md",
