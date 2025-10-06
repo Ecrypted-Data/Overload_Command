@@ -11,14 +11,17 @@
             "id": "02d9e49eca8039b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "任务总览.md",
-                "mode": "source",
-                "source": false
+                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+                "viewState": {
+                  "x": 617.0097587131366,
+                  "y": -93.41217158176946,
+                  "zoom": -0.01401059500848179
+                }
               },
-              "icon": "lucide-file",
-              "title": "任务总览"
+              "icon": "lucide-layout-dashboard",
+              "title": "1号机器人 硬件电路拓扑图"
             }
           }
         ]
@@ -75,7 +78,7 @@
             }
           },
           {
-            "id": "4f49f2ca3f9a6e16",
+            "id": "4afc938347430cfe",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -194,12 +197,13 @@
   },
   "active": "02d9e49eca8039b3",
   "lastOpenFiles": [
+    "硬件组资料/硬件组资源.md",
+    "任务总览.md",
     "电控组资料/电控组资源.md",
     "战备待办事项/电控组待办.md",
     "docs/队员学习日志.md",
     "docs/2025-10-5.md",
     "docs/[[docs2025-10-5.md2025-10-5]].md",
-    "任务总览.md",
     "conflict-files-obsidian-git.md",
     "CRTC战备资料.md",
     "战备待办事项/硬件组待办.md",
@@ -220,7 +224,6 @@
     "//Untitled.canvas",
     "Pasted image 20251004154624.png",
     "机械组资料/机械组资源.md",
-    "硬件组资料/硬件组资源.md",
     "电控组资料/电控培训第一讲.pptx",
     "电控组资料/f32ef4a305635648234c2d471240b6d0.par.temp",
     "机器人大赛策略分析.md",
