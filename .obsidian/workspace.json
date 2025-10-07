@@ -11,14 +11,10 @@
             "id": "02d9e49eca8039b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "任务总览.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "任务总览"
+              "title": "新标签页"
             }
           }
         ]
@@ -192,16 +188,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "02d9e49eca8039b3",
+  "active": "b1d5cbb5cd6aa2fe",
   "lastOpenFiles": [
+    "docs/2025-10-5.md",
+    "docs/[[docs2025-10-5.md2025-10-5]].md",
+    "任务总览.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "硬件组资料/硬件组资源.md",
-    "任务总览.md",
     "电控组资料/电控组资源.md",
     "战备待办事项/电控组待办.md",
     "docs/队员学习日志.md",
-    "docs/2025-10-5.md",
-    "docs/[[docs2025-10-5.md2025-10-5]].md",
     "conflict-files-obsidian-git.md",
     "CRTC战备资料.md",
     "战备待办事项/硬件组待办.md",
