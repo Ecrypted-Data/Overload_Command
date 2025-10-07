@@ -11,17 +11,14 @@
             "id": "02d9e49eca8039b3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-                "viewState": {
-                  "x": 617.0097587131366,
-                  "y": -93.41217158176946,
-                  "zoom": -0.01401059500848179
-                }
+                "file": "任务总览.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "1号机器人 硬件电路拓扑图"
+              "icon": "lucide-file",
+              "title": "任务总览"
             }
           }
         ]
@@ -78,7 +75,7 @@
             }
           },
           {
-            "id": "4afc938347430cfe",
+            "id": "b1d5cbb5cd6aa2fe",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,6 +194,7 @@
   },
   "active": "02d9e49eca8039b3",
   "lastOpenFiles": [
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "硬件组资料/硬件组资源.md",
     "任务总览.md",
     "电控组资料/电控组资源.md",
@@ -210,7 +208,6 @@
     "战备待办事项/机械组待办.md",
     "硬件组资料/硬件组资料.md",
     "README.md",
-    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "Pasted image 20251004225303.png",
     "战备待办事项/战队总待办.md",
     "2025CRTC参赛手册 · v0.3.pdf",
@@ -244,7 +241,6 @@
     "机械组资料",
     "硬件组资料",
     "docs/二号机器人开发日志.md",
-    "docs/一号机器人开发日志.md",
     "战备待办事项/未命名.canvas"
   ]
 }
