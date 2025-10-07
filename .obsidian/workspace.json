@@ -11,10 +11,14 @@
             "id": "02d9e49eca8039b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/一号机器人开发日志.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "一号机器人开发日志"
             }
           }
         ]
@@ -94,6 +98,7 @@
       {
         "id": "d88fba3a01d21164",
         "type": "tabs",
+        "dimension": 49.28571428571429,
         "children": [
           {
             "id": "7f472c27802f1da2",
@@ -144,21 +149,6 @@
             }
           },
           {
-            "id": "1e2a53e5e178249e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "CRTC战备资料.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "CRTC战备资料 的大纲"
-            }
-          },
-          {
             "id": "20df0f3d6e4c5c35",
             "type": "leaf",
             "state": {
@@ -169,7 +159,29 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "8f4200fd48c9a148",
+        "type": "tabs",
+        "dimension": 50.71428571428571,
+        "children": [
+          {
+            "id": "1e2a53e5e178249e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/一号机器人开发日志.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "一号机器人开发日志 的大纲"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,16 +200,23 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "b1d5cbb5cd6aa2fe",
+  "active": "02d9e49eca8039b3",
   "lastOpenFiles": [
-    "docs/2025-10-5.md",
+    "硬件组资料/L298N 驱动板.png",
+    "docs/一号机器人开发日志.md",
+    "硬件组资料/33GB-520电机 基础尺寸.png",
+    "docs/队员学习日志.md",
+    "docs/CRTC 2025 比赛策略设计.md",
+    "docs/比赛策略设计流程图.canvas",
+    "docs/比赛策略设计流程图.png",
+    "docs/QQ20251007-103001.png",
     "docs/[[docs2025-10-5.md2025-10-5]].md",
+    "docs/2025-10-5.md",
     "任务总览.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "硬件组资料/硬件组资源.md",
     "电控组资料/电控组资源.md",
     "战备待办事项/电控组待办.md",
-    "docs/队员学习日志.md",
     "conflict-files-obsidian-git.md",
     "CRTC战备资料.md",
     "战备待办事项/硬件组待办.md",
@@ -212,8 +231,6 @@
     "硬件组资料/碰撞传感器 KW8-3.png",
     "硬件组资料/无线控制直流单路继电器.png",
     "硬件组资料/33GB-520电机 孔位孔径.png",
-    "硬件组资料/33GB-520电机 基础尺寸.png",
-    "硬件组资料/L298N 驱动板.png",
     "//Untitled.canvas",
     "Pasted image 20251004154624.png",
     "机械组资料/机械组资源.md",
@@ -225,9 +242,6 @@
     "战备待办事项/视觉组待办.md",
     "gitignore",
     "新建文本文档.txt",
-    "CRTC 2025 比赛策略.md",
-    "比赛初步设计方案收集/孔京成设计方案.jpg",
-    "比赛初步设计方案收集/孔京成方案.jpg",
     "电控组资料/电控组资料.md",
     "2025CRTC参赛手册 · v0.2.pdf",
     "Vault.md",
@@ -236,7 +250,6 @@
     "机械组资料/机械组资料.md",
     "机械组资料",
     "硬件组资料",
-    "docs/二号机器人开发日志.md",
     "战备待办事项/未命名.canvas"
   ]
 }

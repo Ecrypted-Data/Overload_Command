@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"89c5f43439a77772","type":"group","x":-508,"y":-60,"width":1055,"height":220,"color":"2","label":"小球释放后 4min"},
+		{"id":"cfc4c93fe60c61d4","type":"group","x":-488,"y":-20,"width":475,"height":160,"color":"4","label":"成功"},
+		{"id":"3eddd854a487aa5e","type":"group","x":51,"y":-20,"width":475,"height":160,"color":"1","label":"失败"},
+		{"id":"2d37cd86056de09b","type":"group","x":-202,"y":-380,"width":442,"height":160,"color":"2","label":"小球释放前 1min"},
+		{"id":"6702c8ab8e875099","type":"text","text":"**1号**\n迅速经过桥梁\n抢占中央高台位置","x":-185,"y":-360,"width":183,"height":120,"color":"3"},
+		{"id":"af94633e50953223","type":"text","text":"**2号**\n干扰对方机器人\n协助1号抢占高台","x":40,"y":-360,"width":178,"height":120,"color":"5"},
+		{"id":"fc21d5b886297fa1","type":"text","text":"**高台抢占结果**","x":-55,"y":-160,"width":148,"height":60,"color":"6"},
+		{"id":"1b484d1a0fdca94e","type":"text","text":"**比赛开始**","x":-42,"y":-530,"width":122,"height":60,"color":"2"},
+		{"id":"73c50b28db3348a1","type":"text","text":"**比赛结束**","x":-42,"y":220,"width":122,"height":60,"color":"2"},
+		{"id":"973f3e39b15d45f0","type":"text","text":"**1号**\n经坡道转移至地面\n干扰对方1号机器人\n协助2号转移弹丸\n\n","x":71,"y":0,"width":197,"height":120,"color":"3"},
+		{"id":"0eacfd942d0f26bc","type":"text","text":"**2号**\n在地面迅速收集弹丸\n向1号转移弹丸\n\n","x":310,"y":0,"width":197,"height":120,"color":"5"},
+		{"id":"677d820f9772af1c","type":"text","text":"**2号**\n干扰对方机器人\n协助1号坚守高台\n收集散落弹丸促进比赛结束\n","x":-271,"y":0,"width":239,"height":120,"color":"5"},
+		{"id":"8557eea5da386888","type":"text","text":"**1号**\n封锁坡道、桥梁\n坚守高台\n\n","x":-480,"y":0,"width":197,"height":120,"color":"3"}
+	],
+	"edges":[
+		{"id":"33b8cf0175bb0427","fromNode":"fc21d5b886297fa1","fromSide":"left","toNode":"cfc4c93fe60c61d4","toSide":"top","color":"4"},
+		{"id":"967b48190f046781","fromNode":"1b484d1a0fdca94e","fromSide":"bottom","toNode":"2d37cd86056de09b","toSide":"top"},
+		{"id":"68eaa5dbe4475b5c","fromNode":"2d37cd86056de09b","fromSide":"bottom","toNode":"fc21d5b886297fa1","toSide":"top"},
+		{"id":"46ead140ed4563f9","fromNode":"fc21d5b886297fa1","fromSide":"right","toNode":"3eddd854a487aa5e","toSide":"top","color":"1"},
+		{"id":"f2330bd73abcc8f9","fromNode":"89c5f43439a77772","fromSide":"bottom","toNode":"73c50b28db3348a1","toSide":"top"}
+	]
+}
