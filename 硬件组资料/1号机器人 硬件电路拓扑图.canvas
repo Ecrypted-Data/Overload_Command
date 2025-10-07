@@ -15,10 +15,11 @@
 		{"id":"cae00e41fbd7e797","type":"text","text":"**MG90舵机**","x":994,"y":40,"width":132,"height":60,"color":"5"},
 		{"id":"b44015392aefa925","type":"text","text":"**STM32**","x":1007,"y":-90,"width":106,"height":60,"color":"5"},
 		{"id":"b00dc405afdbf40f","type":"text","text":"**DCE001降压模块** 2","x":643,"y":40,"width":192,"height":60,"color":"#004d25"},
-		{"id":"d527a975a4eb6ab3","type":"text","text":"**碰撞传感器 KW8-3**","x":994,"y":160,"width":197,"height":60,"color":"5"},
-		{"id":"0b7b9844fd6e924f","type":"text","text":"LED 指示灯","x":1260,"y":160,"width":134,"height":60,"color":"5"},
-		{"id":"8d31b85f23719558","type":"file","file":"硬件组资料/碰撞传感器 KW8-3.png","x":962,"y":260,"width":261,"height":219},
-		{"id":"61e64d5fac654053","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":1191,"y":-355,"width":281,"height":230}
+		{"id":"61e64d5fac654053","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":1191,"y":-355,"width":281,"height":230},
+		{"id":"da5cbd5e0d395729","type":"text","text":"PS2 遥控接收模块","x":994,"y":160,"width":178,"height":60,"color":"5"},
+		{"id":"d527a975a4eb6ab3","type":"text","text":"**碰撞传感器 KW8-3**","x":994,"y":280,"width":197,"height":60,"color":"5"},
+		{"id":"0b7b9844fd6e924f","type":"text","text":"LED 指示灯","x":1260,"y":280,"width":134,"height":60,"color":"5"},
+		{"id":"8d31b85f23719558","type":"file","file":"硬件组资料/碰撞传感器 KW8-3.png","x":962,"y":380,"width":261,"height":219}
 	],
 	"edges":[
 		{"id":"3a7cf0c2eaf2ebc2","fromNode":"8979c743ab767858","fromSide":"right","toNode":"e593b4af417b49b6","toSide":"left","color":"1","label":"14V"},
@@ -40,7 +41,9 @@
 		{"id":"88d9ddf823067055","fromNode":"ab1017c091cf0be6","fromSide":"right","toNode":"b00dc405afdbf40f","toSide":"left","color":"1"},
 		{"id":"da3e03a1883cc2d7","fromNode":"d527a975a4eb6ab3","fromSide":"bottom","toNode":"8d31b85f23719558","toSide":"top"},
 		{"id":"0d7512a211e50ea8","fromNode":"d527a975a4eb6ab3","fromSide":"right","toNode":"0b7b9844fd6e924f","toSide":"left","color":"5"},
-		{"id":"7528a4c9525f06fd","fromNode":"b00dc405afdbf40f","fromSide":"right","toNode":"d527a975a4eb6ab3","toSide":"left","color":"#084024"},
-		{"id":"7e8e34ceb68fac99","fromNode":"d527a975a4eb6ab3","fromSide":"right","toNode":"b44015392aefa925","toSide":"right","color":"5","label":"信号线"}
+		{"id":"7e8e34ceb68fac99","fromNode":"d527a975a4eb6ab3","fromSide":"right","toNode":"b44015392aefa925","toSide":"right","color":"5","label":"信号线"},
+		{"id":"027fe1beb065c230","fromNode":"b00dc405afdbf40f","fromSide":"right","toNode":"da5cbd5e0d395729","toSide":"left","color":"#103422","label":"5V"},
+		{"id":"7528a4c9525f06fd","fromNode":"b00dc405afdbf40f","fromSide":"right","toNode":"d527a975a4eb6ab3","toSide":"left","color":"#0f3522"},
+		{"id":"8901dbf3e446e965","fromNode":"da5cbd5e0d395729","fromSide":"right","toNode":"b44015392aefa925","toSide":"right","color":"5"}
 	]
 }
