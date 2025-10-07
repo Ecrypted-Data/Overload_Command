@@ -43,9 +43,9 @@
               "state": {
                 "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
                 "viewState": {
-                  "x": 777.5613941018764,
-                  "y": 16.845816122785152,
-                  "zoom": -0.01401059500848179
+                  "x": 641.1457821765837,
+                  "y": -28.108482344948982,
+                  "zoom": -0.3473439283418151
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -66,8 +66,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/二号机器人设计简述及开发日志.md",
+                "file": "docs/一号机器人设计简述及开发日志.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "二号机器人设计简述及开发日志 的大纲"
+              "title": "一号机器人设计简述及开发日志 的大纲"
             }
           }
         ]
@@ -246,10 +245,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8b57bfc6b6712f46",
+  "active": "02d9e49eca8039b3",
   "lastOpenFiles": [
-    "docs/一号机器人设计简述及开发日志.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "docs/二号机器人设计简述及开发日志.md",
+    "docs/一号机器人设计简述及开发日志.md",
     "README.md",
     "硬件组资料/L298N 驱动板.png",
     "硬件组资料/33GB-520电机 基础尺寸.png",
@@ -293,7 +293,6 @@
     "Vault.md",
     "视觉组资料/视觉组资料.md",
     "视觉组资料",
-    "机械组资料/机械组资料.md",
     "机械组资料",
     "硬件组资料",
     "战备待办事项/未命名.canvas"
