@@ -38,7 +38,11 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//电控组资料",
+    "//电控组资料/电控组资料/肖弋铭资料",
+    "//电控组资料/电控组资料/肖弋铭资料/电控组资料/肖弋铭资料/PC13简单点灯",
+    "//电控组资料/电控组资料/肖弋铭资料/电控组资料/肖弋铭资料/VSCode&EIDE&Cortex-Debug&OpenOCD&CubeMX&MakeFile 初始模板配置"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

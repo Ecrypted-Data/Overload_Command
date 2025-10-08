@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "9256562fd4346bb5",
+            "id": "2aef3d015cc977d7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,6 +197,17 @@
   },
   "active": "97df1bacc88458f8",
   "lastOpenFiles": [
+    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
+    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
+    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h",
+    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h",
+    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/CMSIS/Device/ST/STM32F1xx/LICENSE.txt",
+    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c",
+    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c",
+    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c",
+    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c",
+    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c",
+    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c",
     "任务总览.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "docs/二号机器人设计简述及开发日志.md",
@@ -206,7 +217,6 @@
     "conflict-files-obsidian-git.md",
     "硬件组资料/33GB-520电机 基础尺寸.png",
     "docs/一号机器人设计简述及开发日志.md",
-    "2025CRTC参赛手册 · v0.3.pdf",
     "CRTC战备资料.md",
     "README.md",
     "硬件组资料/L298N 驱动板.png",
@@ -231,21 +241,12 @@
     "硬件组资料/33GB-520电机 孔位孔径.png",
     "//Untitled.canvas",
     "机械组资料/机械组资源.md",
-    "电控组资料/电控培训第一讲.pptx",
-    "电控组资料/f32ef4a305635648234c2d471240b6d0.par.temp",
     "机器人大赛策略分析.md",
     "战备待办事项/战备待办事项.md",
-    "比赛初步设计方案收集/~$铭设计方案_rc.docx",
     "战备待办事项/视觉组待办.md",
-    "gitignore",
-    "新建文本文档.txt",
     "电控组资料/电控组资料.md",
-    "2025CRTC参赛手册 · v0.2.pdf",
     "Vault.md",
     "视觉组资料/视觉组资料.md",
-    "视觉组资料",
-    "机械组资料",
-    "硬件组资料",
     "战备待办事项/未命名.canvas"
   ]
 }
