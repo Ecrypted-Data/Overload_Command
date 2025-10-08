@@ -17,7 +17,8 @@
 		{"id":"f55820e69780f7c6","type":"text","text":"**STM32**","x":405,"y":220,"width":106,"height":60,"color":"5"},
 		{"id":"6124651a980c349f","type":"text","text":"**DCE001降压模块** 2","x":27,"y":250,"width":192,"height":60,"color":"#004d25"},
 		{"id":"3f44282c358a5e0f","type":"file","file":"硬件组资料/D4184 场效应管模块.png","x":-378,"y":40,"width":260,"height":270},
-		{"id":"74bef061fd2e691a","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":338,"y":-641,"width":281,"height":230}
+		{"id":"74bef061fd2e691a","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":338,"y":-641,"width":281,"height":230},
+		{"id":"9e9dfd215aeddd2b","type":"file","file":"硬件组资料/N20 电机.png","x":680,"y":-167,"width":275,"height":238}
 	],
 	"edges":[
 		{"id":"6f356298ba073c75","fromNode":"03a5f14882ccff76","fromSide":"right","toNode":"199a9c6af9266d3b","toSide":"left","color":"3","label":"12V"},
@@ -40,6 +41,8 @@
 		{"id":"185c6905eb255017","fromNode":"9fd13e8e56bdb9a2","fromSide":"right","toNode":"1fa3ed6de4393578","toSide":"left","color":"3"},
 		{"id":"ee55cd8963617c20","fromNode":"1fa3ed6de4393578","fromSide":"right","toNode":"5217ed8cf2620bee","toSide":"left","color":"3","label":"12V"},
 		{"id":"0a12ddca6fc54696","fromNode":"f55820e69780f7c6","fromSide":"top","toNode":"1fa3ed6de4393578","toSide":"bottom","color":"5","label":"信号线"},
-		{"id":"d7fbe98204dd4cdc","fromNode":"1fa3ed6de4393578","fromSide":"left","toNode":"3f44282c358a5e0f","toSide":"right"}
+		{"id":"d7fbe98204dd4cdc","fromNode":"1fa3ed6de4393578","fromSide":"left","toNode":"3f44282c358a5e0f","toSide":"right"},
+		{"id":"09035aab83b92e35","fromNode":"b9998c37c3f9efea","fromSide":"right","toNode":"9e9dfd215aeddd2b","toSide":"left"},
+		{"id":"f42d454494530596","fromNode":"5217ed8cf2620bee","fromSide":"right","toNode":"9e9dfd215aeddd2b","toSide":"left"}
 	]
 }

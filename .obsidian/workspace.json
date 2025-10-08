@@ -29,9 +29,9 @@
               "state": {
                 "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "viewState": {
-                  "x": -113.58465533178972,
-                  "y": -116.7669393907889,
-                  "zoom": 0
+                  "x": 53.72864511993498,
+                  "y": -120.34903873639038,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "任务总览.md",
+                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "任务总览 的大纲"
+              "title": "2号机器人 硬件电路拓扑图 的大纲"
             }
           }
         ]
@@ -277,13 +277,15 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "ea70582db8f2b101",
+  "active": "53ae94cfecc6a1ef",
   "lastOpenFiles": [
+    "硬件组资料/N20 电机.png",
     "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
-    "docs/二号机器人设计简述及开发日志.md",
-    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "docs/一号机器人设计简述及开发日志.md",
     "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
+    "任务总览.md",
+    "docs/二号机器人设计简述及开发日志.md",
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "硬件组资料/D4184 场效应管模块.png",
     "conflict-files-obsidian-git.md",
     "电控组资料/肖弋铭资料/VSCode&EIDE&Cortex-Debug&OpenOCD&CubeMX&MakeFile 初始模板配置/Template/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
@@ -296,7 +298,6 @@
     "电控组资料/肖弋铭资料/VSCode&EIDE&Cortex-Debug&OpenOCD&CubeMX&MakeFile 初始模板配置/Template/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c",
     "电控组资料/肖弋铭资料/VSCode&EIDE&Cortex-Debug&OpenOCD&CubeMX&MakeFile 初始模板配置/Template/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c",
     "电控组资料/肖弋铭资料/VSCode&EIDE&Cortex-Debug&OpenOCD&CubeMX&MakeFile 初始模板配置/Template/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c",
-    "任务总览.md",
     "硬件组资料/33GB-520电机 基础尺寸.png",
     "CRTC战备资料.md",
     "README.md",
@@ -319,7 +320,6 @@
     "硬件组资料/黄铜六角联轴器.png",
     "硬件组资料/碰撞传感器 KW8-3.png",
     "硬件组资料/无线控制直流单路继电器.png",
-    "硬件组资料/33GB-520电机 孔位孔径.png",
     "//Untitled.canvas",
     "机械组资料/机械组资源.md",
     "机器人大赛策略分析.md",
