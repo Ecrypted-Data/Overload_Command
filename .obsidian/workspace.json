@@ -43,8 +43,8 @@
               "state": {
                 "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "viewState": {
-                  "x": 201.24936873605185,
-                  "y": -86.2572637465646,
+                  "x": 104.23544789414666,
+                  "y": -173.19181618931094,
                   "zoom": -0.3333333333333333
                 }
               },
@@ -81,20 +81,6 @@
               },
               "icon": "lucide-file",
               "title": "任务总览"
-            }
-          },
-          {
-            "id": "c996792ae3bf8b9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2"
             }
           }
         ],
@@ -152,7 +138,7 @@
             }
           },
           {
-            "id": "463bc6149689651d",
+            "id": "e3954ba895450c84",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -249,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "2号机器人 硬件电路拓扑图 的大纲"
             }
           }
         ]
@@ -277,19 +263,20 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "53ae94cfecc6a1ef",
   "lastOpenFiles": [
+    "D4184 场效应管模块.png",
     "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
-    "conflict-files-obsidian-git.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "任务总览.md",
+    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
+    "conflict-files-obsidian-git.md",
     "硬件组资料/33GB-520电机 基础尺寸.png",
     "docs/二号机器人设计简述及开发日志.md",
     "docs/一号机器人设计简述及开发日志.md",
-    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
     "2025CRTC参赛手册 · v0.3.pdf",
     "CRTC战备资料.md",
     "README.md",
-    "任务总览.md",
     "硬件组资料/L298N 驱动板.png",
     "docs/队员学习日志.md",
     "docs/CRTC 2025 比赛策略设计.md",
@@ -311,7 +298,6 @@
     "硬件组资料/无线控制直流单路继电器.png",
     "硬件组资料/33GB-520电机 孔位孔径.png",
     "//Untitled.canvas",
-    "Pasted image 20251004154624.png",
     "机械组资料/机械组资源.md",
     "电控组资料/电控培训第一讲.pptx",
     "电控组资料/f32ef4a305635648234c2d471240b6d0.par.temp",
