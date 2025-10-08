@@ -18,7 +18,9 @@
 		{"id":"6124651a980c349f","type":"text","text":"**DCE001降压模块** 2","x":27,"y":250,"width":192,"height":60,"color":"#004d25"},
 		{"id":"3f44282c358a5e0f","type":"file","file":"硬件组资料/D4184 场效应管模块.png","x":-378,"y":40,"width":260,"height":270},
 		{"id":"74bef061fd2e691a","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":338,"y":-641,"width":281,"height":230},
-		{"id":"9e9dfd215aeddd2b","type":"file","file":"硬件组资料/N20 电机.png","x":680,"y":-167,"width":275,"height":238}
+		{"id":"9e9dfd215aeddd2b","type":"file","file":"硬件组资料/N20 电机.png","x":680,"y":-167,"width":275,"height":238},
+		{"id":"4d54ffa3fd7d452c","type":"file","file":"硬件组资料/轮胎尺寸.png","x":658,"y":-531,"width":320,"height":304},
+		{"id":"bde4196ce399ce91","type":"file","file":"硬件组资料/轮胎马达总长.png","x":1040,"y":-519,"width":338,"height":314}
 	],
 	"edges":[
 		{"id":"6f356298ba073c75","fromNode":"03a5f14882ccff76","fromSide":"right","toNode":"199a9c6af9266d3b","toSide":"left","color":"3","label":"12V"},
