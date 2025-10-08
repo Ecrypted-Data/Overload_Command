@@ -42,7 +42,8 @@
     "//战备待办事项",
     "//docs",
     "//电控组资料",
-    "//硬件组资料"
+    "//硬件组资料",
+    "//模型文件"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
