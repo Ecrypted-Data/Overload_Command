@@ -43,8 +43,8 @@
               "state": {
                 "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "viewState": {
-                  "x": 104.23544789414666,
-                  "y": -173.19181618931094,
+                  "x": 143.2930004408878,
+                  "y": -106.4160005448827,
                   "zoom": -0.3333333333333333
                 }
               },
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "e3954ba895450c84",
+            "id": "4307d5eaf2ca937f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+                "file": "docs/二号机器人设计简述及开发日志.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2号机器人 硬件电路拓扑图 的大纲"
+              "title": "二号机器人设计简述及开发日志 的大纲"
             }
           }
         ]
@@ -263,13 +263,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "53ae94cfecc6a1ef",
+  "active": "8b57bfc6b6712f46",
   "lastOpenFiles": [
-    "D4184 场效应管模块.png",
     "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
+    "D4184 场效应管模块.png",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "任务总览.md",
-    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
     "conflict-files-obsidian-git.md",
     "硬件组资料/33GB-520电机 基础尺寸.png",
     "docs/二号机器人设计简述及开发日志.md",
