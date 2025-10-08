@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+                "file": "任务总览.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2号机器人 硬件电路拓扑图 的大纲"
+              "title": "任务总览 的大纲"
             }
           }
         ]
@@ -277,13 +277,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "53ae94cfecc6a1ef",
+  "active": "ea70582db8f2b101",
   "lastOpenFiles": [
+    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
     "docs/二号机器人设计简述及开发日志.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "docs/一号机器人设计简述及开发日志.md",
     "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
-    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
     "硬件组资料/D4184 场效应管模块.png",
     "conflict-files-obsidian-git.md",
     "电控组资料/肖弋铭资料/VSCode&EIDE&Cortex-Debug&OpenOCD&CubeMX&MakeFile 初始模板配置/Template/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
