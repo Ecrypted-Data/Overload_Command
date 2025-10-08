@@ -141,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 680.5
   },
   "right": {
     "id": "7c3ef2a1f07eea6a",
@@ -252,7 +252,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "ea70582db8f2b101",
+  "active": "20df0f3d6e4c5c35",
   "lastOpenFiles": [
     "CRTC战备资料.md",
     "战备待办事项/电控组待办.md",
