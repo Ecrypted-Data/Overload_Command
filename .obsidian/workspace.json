@@ -4,87 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "412a4ed5c4dbc237",
+        "id": "cba8f381b5e25848",
         "type": "tabs",
         "children": [
           {
-            "id": "02d9e49eca8039b3",
+            "id": "fc60047da7b5ab37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/一号机器人设计简述及开发日志.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "一号机器人设计简述及开发日志"
-            }
-          },
-          {
-            "id": "8b57bfc6b6712f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/二号机器人设计简述及开发日志.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "二号机器人设计简述及开发日志"
-            }
-          },
-          {
-            "id": "53ae94cfecc6a1ef",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
-                "viewState": {
-                  "x": 104.23544789414666,
-                  "y": -173.19181618931094,
-                  "zoom": -0.3333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "2号机器人 硬件电路拓扑图"
-            }
-          },
-          {
-            "id": "3a370934d37b6b77",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-                "viewState": {
-                  "x": 679.3892435725033,
-                  "y": -12.585995457986371,
-                  "zoom": -0.09539422759279004
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "1号机器人 硬件电路拓扑图"
-            }
-          },
-          {
-            "id": "ea70582db8f2b101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "任务总览.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "任务总览"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +71,7 @@
             }
           },
           {
-            "id": "e3954ba895450c84",
+            "id": "9256562fd4346bb5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -235,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2号机器人 硬件电路拓扑图 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -263,16 +195,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "53ae94cfecc6a1ef",
+  "active": "fc60047da7b5ab37",
   "lastOpenFiles": [
-    "D4184 场效应管模块.png",
-    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
-    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "任务总览.md",
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "docs/二号机器人设计简述及开发日志.md",
+    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "D4184 场效应管模块.png",
     "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
     "conflict-files-obsidian-git.md",
     "硬件组资料/33GB-520电机 基础尺寸.png",
-    "docs/二号机器人设计简述及开发日志.md",
     "docs/一号机器人设计简述及开发日志.md",
     "2025CRTC参赛手册 · v0.3.pdf",
     "CRTC战备资料.md",
