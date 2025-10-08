@@ -25,14 +25,12 @@
             "id": "8b57bfc6b6712f46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "docs/二号机器人设计简述及开发日志.md",
-                "mode": "source",
-                "source": false
+                "path": "docs"
               },
               "icon": "lucide-file",
-              "title": "二号机器人设计简述及开发日志"
+              "title": "docs"
             }
           },
           {
@@ -138,7 +136,7 @@
             }
           },
           {
-            "id": "4307d5eaf2ca937f",
+            "id": "97115410e73a32bb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -235,13 +233,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -263,8 +260,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "8b57bfc6b6712f46",
   "lastOpenFiles": [
+    "硬件组资料/D4184 场效应管模块.png",
     "docs/二号机器人设计简述及开发日志.md",
     "conflict-files-obsidian-git.md",
     "电控组资料/肖弋铭资料/VSCode&EIDE&Cortex-Debug&OpenOCD&CubeMX&MakeFile 初始模板配置/Template/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
@@ -279,7 +277,6 @@
     "电控组资料/肖弋铭资料/VSCode&EIDE&Cortex-Debug&OpenOCD&CubeMX&MakeFile 初始模板配置/Template/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c",
     "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
     "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
-    "D4184 场效应管模块.png",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "任务总览.md",
     "硬件组资料/33GB-520电机 基础尺寸.png",

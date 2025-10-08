@@ -16,7 +16,7 @@
 		{"id":"7909b0b55f91a648","type":"text","text":"**PS2 遥控接收模块**","x":378,"y":370,"width":178,"height":60,"color":"5"},
 		{"id":"f55820e69780f7c6","type":"text","text":"**STM32**","x":405,"y":220,"width":106,"height":60,"color":"5"},
 		{"id":"6124651a980c349f","type":"text","text":"**DCE001降压模块** 2","x":27,"y":250,"width":192,"height":60,"color":"#004d25"},
-		{"id":"3f44282c358a5e0f","type":"file","file":"D4184 场效应管模块.png","x":-378,"y":40,"width":260,"height":270},
+		{"id":"3f44282c358a5e0f","type":"file","file":"硬件组资料/D4184 场效应管模块.png","x":-378,"y":40,"width":260,"height":270},
 		{"id":"74bef061fd2e691a","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":338,"y":-641,"width":281,"height":230}
 	],
 	"edges":[
