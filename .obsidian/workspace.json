@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cba8f381b5e25848",
+        "id": "249464b33a5844dc",
         "type": "tabs",
         "children": [
           {
-            "id": "fc60047da7b5ab37",
+            "id": "97df1bacc88458f8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 200
   },
   "right": {
     "id": "7c3ef2a1f07eea6a",
@@ -195,7 +195,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "fc60047da7b5ab37",
+  "active": "97df1bacc88458f8",
   "lastOpenFiles": [
     "任务总览.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
