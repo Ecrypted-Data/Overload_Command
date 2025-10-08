@@ -5,8 +5,6 @@
 		{"id":"e593b4af417b49b6","type":"text","text":"**总开关**","x":160,"y":-120,"width":112,"height":60},
 		{"id":"ba7af35d869b8037","type":"text","text":"18650 三星 25R电池  x4","x":-231,"y":-240,"width":232,"height":60,"color":"2"},
 		{"id":"0041afb407a4da8b","type":"file","file":"硬件组资料/无线控制直流单路继电器.png","x":300,"y":-470,"width":266,"height":260},
-		{"id":"7d1b79578e1d3261","type":"text","text":"**L298N驱动模块**","x":648,"y":-240,"width":180,"height":60,"color":"1"},
-		{"id":"8bc2b06b8b66cd07","type":"text","text":"**33GB-520电机**","x":968,"y":-240,"width":159,"height":60,"color":"3"},
 		{"id":"40216fc6f248c3f7","type":"file","file":"硬件组资料/L298N 驱动板.png","x":600,"y":-684,"width":276,"height":279},
 		{"id":"46c1a91bf5f57b94","type":"file","file":"硬件组资料/33GB-520电机 基础尺寸.png","x":923,"y":-622,"width":249,"height":215},
 		{"id":"c60193fae3693bc0","type":"file","file":"硬件组资料/33GB-520电机 孔位孔径.png","x":1208,"y":-613,"width":200,"height":197},
@@ -18,8 +16,12 @@
 		{"id":"61e64d5fac654053","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":1191,"y":-355,"width":281,"height":230},
 		{"id":"da5cbd5e0d395729","type":"text","text":"PS2 遥控接收模块","x":994,"y":160,"width":178,"height":60,"color":"5"},
 		{"id":"d527a975a4eb6ab3","type":"text","text":"**碰撞传感器 KW8-3**","x":994,"y":280,"width":197,"height":60,"color":"5"},
-		{"id":"0b7b9844fd6e924f","type":"text","text":"LED 指示灯","x":1260,"y":280,"width":134,"height":60,"color":"5"},
-		{"id":"8d31b85f23719558","type":"file","file":"硬件组资料/碰撞传感器 KW8-3.png","x":962,"y":380,"width":261,"height":219}
+		{"id":"8d31b85f23719558","type":"file","file":"硬件组资料/碰撞传感器 KW8-3.png","x":962,"y":380,"width":261,"height":219},
+		{"id":"7d1b79578e1d3261","type":"text","text":"**L298N驱动模块 A**","x":648,"y":-340,"width":180,"height":60,"color":"1"},
+		{"id":"8bc2b06b8b66cd07","type":"text","text":"**33GB-520电机 A**","x":968,"y":-340,"width":192,"height":60,"color":"3"},
+		{"id":"d6909790eff4cb22","type":"text","text":"**L298N驱动模块 B**","x":648,"y":-240,"width":180,"height":60,"color":"1"},
+		{"id":"be9ad0efa86f49ed","type":"text","text":"**33GB-520电机 B**","x":968,"y":-240,"width":192,"height":60,"color":"3"},
+		{"id":"0b7b9844fd6e924f","type":"text","text":"LED 指示灯","x":1308,"y":280,"width":134,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"3a7cf0c2eaf2ebc2","fromNode":"8979c743ab767858","fromSide":"right","toNode":"e593b4af417b49b6","toSide":"left","color":"1","label":"14V"},
@@ -33,7 +35,6 @@
 		{"id":"3ba526390adcaf29","fromNode":"ba7af35d869b8037","fromSide":"bottom","toNode":"8979c743ab767858","toSide":"top"},
 		{"id":"d7b031b72ce8e017","fromNode":"ab1017c091cf0be6","fromSide":"right","toNode":"5e4e141ec0e99dc2","toSide":"left","color":"1"},
 		{"id":"0ae4a1a6a016bd5c","fromNode":"b44015392aefa925","fromSide":"left","toNode":"7d1b79578e1d3261","toSide":"right","color":"5","label":"信号线"},
-		{"id":"f8e82e0332569a50","fromNode":"5e4e141ec0e99dc2","fromSide":"top","toNode":"7d1b79578e1d3261","toSide":"bottom","color":"4","label":"5V"},
 		{"id":"661e7a4f1d0486d4","fromNode":"ab1017c091cf0be6","fromSide":"top","toNode":"0041afb407a4da8b","toSide":"bottom"},
 		{"id":"fc7d42c704cac7d6","fromNode":"5e4e141ec0e99dc2","fromSide":"right","toNode":"cae00e41fbd7e797","toSide":"left","color":"4","label":"5V"},
 		{"id":"2071d66d0214f224","fromNode":"b44015392aefa925","fromSide":"bottom","toNode":"cae00e41fbd7e797","toSide":"top","color":"5","label":"信号线"},
@@ -44,6 +45,10 @@
 		{"id":"7e8e34ceb68fac99","fromNode":"d527a975a4eb6ab3","fromSide":"right","toNode":"b44015392aefa925","toSide":"right","color":"5","label":"信号线"},
 		{"id":"027fe1beb065c230","fromNode":"b00dc405afdbf40f","fromSide":"right","toNode":"da5cbd5e0d395729","toSide":"left","color":"#103422","label":"5V"},
 		{"id":"7528a4c9525f06fd","fromNode":"b00dc405afdbf40f","fromSide":"right","toNode":"d527a975a4eb6ab3","toSide":"left","color":"#0f3522"},
-		{"id":"8901dbf3e446e965","fromNode":"da5cbd5e0d395729","fromSide":"right","toNode":"b44015392aefa925","toSide":"right","color":"5"}
+		{"id":"8901dbf3e446e965","fromNode":"da5cbd5e0d395729","fromSide":"right","toNode":"b44015392aefa925","toSide":"right","color":"5"},
+		{"id":"66414aff04e6e8a4","fromNode":"d6909790eff4cb22","fromSide":"right","toNode":"be9ad0efa86f49ed","toSide":"left","color":"3"},
+		{"id":"3845047fe9c2578a","fromNode":"b44015392aefa925","fromSide":"left","toNode":"d6909790eff4cb22","toSide":"right","color":"5"},
+		{"id":"04dcc2f87798285e","fromNode":"5e4e141ec0e99dc2","fromSide":"top","toNode":"d6909790eff4cb22","toSide":"bottom","color":"4","label":"5V"},
+		{"id":"ef7e91ca2873b044","fromNode":"5e4e141ec0e99dc2","fromSide":"right","toNode":"7d1b79578e1d3261","toSide":"right","color":"4"}
 	]
 }

@@ -38,7 +38,8 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//docs"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
