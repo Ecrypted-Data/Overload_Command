@@ -13,8 +13,8 @@
 		{"id":"88df539e992f599a","type":"text","text":"**MG995舵机**","x":378,"y":83,"width":162,"height":60,"color":"5"},
 		{"id":"f55820e69780f7c6","type":"text","text":"**STM32**","x":391,"y":-47,"width":106,"height":60,"color":"5"},
 		{"id":"6124651a980c349f","type":"text","text":"**DCE001降压模块** 2","x":27,"y":83,"width":192,"height":60,"color":"#004d25"},
-		{"id":"74bef061fd2e691a","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":575,"y":-312,"width":281,"height":230},
-		{"id":"7909b0b55f91a648","type":"text","text":"PS2 遥控接收模块","x":378,"y":203,"width":178,"height":60,"color":"5"}
+		{"id":"7909b0b55f91a648","type":"text","text":"PS2 遥控接收模块","x":378,"y":203,"width":178,"height":60,"color":"5"},
+		{"id":"74bef061fd2e691a","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":660,"y":-297,"width":281,"height":230}
 	],
 	"edges":[
 		{"id":"6f356298ba073c75","fromNode":"03a5f14882ccff76","fromSide":"right","toNode":"199a9c6af9266d3b","toSide":"left","color":"1","label":"14V"},
