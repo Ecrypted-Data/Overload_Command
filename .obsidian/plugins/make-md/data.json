@@ -40,7 +40,8 @@
   "expandedSpaces": [
     "/",
     "//docs",
-    "//硬件组资料"
+    "//硬件组资料",
+    "//电控组资料"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
