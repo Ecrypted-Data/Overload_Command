@@ -25,7 +25,9 @@
 		{"id":"21fc8e918e87ff0a","type":"file","file":"硬件组资料/履带尺寸.png","x":1472,"y":-807,"width":360,"height":400},
 		{"id":"9cc5072ea0ba501a","type":"file","file":"硬件组资料/33GB-520电机 设计图.png","x":904,"y":-807,"width":536,"height":157},
 		{"id":"ac79b86abb1c41cd","type":"file","file":"硬件组资料/PS2 引脚定义.png","x":448,"y":160,"width":400,"height":360},
-		{"id":"3b04c41463a58ab8","type":"file","file":"硬件组资料/PS2 按键定义.png","x":-32,"y":180,"width":400,"height":261}
+		{"id":"957b8c425287ace2","type":"file","file":"硬件组资料/电池盒尺寸.png","x":-184,"y":-684,"width":400,"height":376},
+		{"id":"3b04c41463a58ab8","type":"file","file":"硬件组资料/PS2 按键定义.png","x":-32,"y":280,"width":400,"height":261},
+		{"id":"b186a5c09a167af9","type":"file","file":"硬件组资料/DCE001 降压模块.png","x":58,"y":-21,"width":280,"height":243}
 	],
 	"edges":[
 		{"id":"3a7cf0c2eaf2ebc2","fromNode":"8979c743ab767858","fromSide":"right","toNode":"e593b4af417b49b6","toSide":"left","color":"1","label":"14V"},
@@ -55,6 +57,9 @@
 		{"id":"04dcc2f87798285e","fromNode":"5e4e141ec0e99dc2","fromSide":"top","toNode":"d6909790eff4cb22","toSide":"bottom","color":"4","label":"5V"},
 		{"id":"ef7e91ca2873b044","fromNode":"5e4e141ec0e99dc2","fromSide":"right","toNode":"7d1b79578e1d3261","toSide":"right","color":"4"},
 		{"id":"90e02c6e3cf4671b","fromNode":"da5cbd5e0d395729","fromSide":"left","toNode":"ac79b86abb1c41cd","toSide":"right"},
-		{"id":"7b60c35b69d1c01a","fromNode":"ac79b86abb1c41cd","fromSide":"left","toNode":"3b04c41463a58ab8","toSide":"right"}
+		{"id":"7b60c35b69d1c01a","fromNode":"ac79b86abb1c41cd","fromSide":"left","toNode":"3b04c41463a58ab8","toSide":"right"},
+		{"id":"934ab6fa2cdf9f70","fromNode":"8979c743ab767858","fromSide":"right","toNode":"957b8c425287ace2","toSide":"bottom"},
+		{"id":"9db81c52dba60b7d","fromNode":"5e4e141ec0e99dc2","fromSide":"left","toNode":"b186a5c09a167af9","toSide":"right"},
+		{"id":"ab3563b697bc8b21","fromNode":"b00dc405afdbf40f","fromSide":"left","toNode":"b186a5c09a167af9","toSide":"right"}
 	]
 }

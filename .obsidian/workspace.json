@@ -15,8 +15,8 @@
               "state": {
                 "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
                 "viewState": {
-                  "x": 870.8180409789181,
-                  "y": -131.62350932530825,
+                  "x": 663.8487696055747,
+                  "y": -49.913720919825536,
                   "zoom": -0.6666666666666665
                 }
               },
@@ -250,8 +250,12 @@
   },
   "active": "1eb8b212e4fe947a",
   "lastOpenFiles": [
-    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "电控组资料/DR920SR-PS SPI数据格式V1.41.pdf",
+    "电控组资料/DR920SR-PS SPI数据格式V1.41(3).pdf.crdownload",
+    "硬件组资料/电池盒尺寸.png",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "硬件组资料/DCE001 降压模块.png",
+    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
     "硬件组资料/PS2 按键定义.png",
     "硬件组资料/PS2 引脚定义.png",
     "docs/二号机器人设计简述及开发日志.md",
@@ -282,11 +286,8 @@
     "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/CMSIS/Device/ST/STM32F1xx",
     "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c",
     "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c",
-    "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c",
     "硬件组资料/N20 电机.png",
-    "硬件组资料/D4184 场效应管模块.png",
     "README.md",
-    "硬件组资料/L298N 驱动板.png",
     "docs/队员学习日志.md",
     "docs/CRTC 2025 比赛策略设计.md",
     "docs/比赛策略设计流程图.canvas",
