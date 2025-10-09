@@ -20,7 +20,9 @@
 		{"id":"74bef061fd2e691a","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":338,"y":-641,"width":281,"height":230},
 		{"id":"9e9dfd215aeddd2b","type":"file","file":"硬件组资料/N20 电机.png","x":680,"y":-167,"width":275,"height":238},
 		{"id":"4d54ffa3fd7d452c","type":"file","file":"硬件组资料/轮胎尺寸.png","x":658,"y":-531,"width":320,"height":304},
-		{"id":"bde4196ce399ce91","type":"file","file":"硬件组资料/轮胎马达总长.png","x":1040,"y":-519,"width":338,"height":314}
+		{"id":"bde4196ce399ce91","type":"file","file":"硬件组资料/轮胎马达总长.png","x":1040,"y":-519,"width":338,"height":314},
+		{"id":"e9d9a9181b1f8b8b","type":"file","file":"硬件组资料/PS2 引脚定义.png","x":-173,"y":400,"width":400,"height":360},
+		{"id":"741f5a124208be00","type":"file","file":"硬件组资料/PS2 按键定义.png","x":-656,"y":450,"width":400,"height":261}
 	],
 	"edges":[
 		{"id":"6f356298ba073c75","fromNode":"03a5f14882ccff76","fromSide":"right","toNode":"199a9c6af9266d3b","toSide":"left","color":"3","label":"12V"},
@@ -45,6 +47,8 @@
 		{"id":"0a12ddca6fc54696","fromNode":"f55820e69780f7c6","fromSide":"top","toNode":"1fa3ed6de4393578","toSide":"bottom","color":"5","label":"信号线"},
 		{"id":"d7fbe98204dd4cdc","fromNode":"1fa3ed6de4393578","fromSide":"left","toNode":"3f44282c358a5e0f","toSide":"right"},
 		{"id":"09035aab83b92e35","fromNode":"b9998c37c3f9efea","fromSide":"right","toNode":"9e9dfd215aeddd2b","toSide":"left"},
-		{"id":"f42d454494530596","fromNode":"5217ed8cf2620bee","fromSide":"right","toNode":"9e9dfd215aeddd2b","toSide":"left"}
+		{"id":"f42d454494530596","fromNode":"5217ed8cf2620bee","fromSide":"right","toNode":"9e9dfd215aeddd2b","toSide":"left"},
+		{"id":"f65434f13529bd44","fromNode":"e9d9a9181b1f8b8b","fromSide":"left","toNode":"741f5a124208be00","toSide":"right"},
+		{"id":"bbedf87f9aa34a7e","fromNode":"7909b0b55f91a648","fromSide":"left","toNode":"e9d9a9181b1f8b8b","toSide":"right"}
 	]
 }
