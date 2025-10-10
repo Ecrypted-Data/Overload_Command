@@ -15,8 +15,8 @@
               "state": {
                 "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
                 "viewState": {
-                  "x": 735.8068662094306,
-                  "y": -98.1455180164964,
+                  "x": 873.138260647972,
+                  "y": -16.250649773329656,
                   "zoom": -0.3333333333333332
                 }
               },
@@ -46,8 +46,8 @@
               "state": {
                 "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "viewState": {
-                  "x": 258.4271976021822,
-                  "y": 97.69620455105354,
+                  "x": 158.44117994530512,
+                  "y": 181.18620802481215,
                   "zoom": -0.772066117492952
                 }
               },
@@ -83,7 +83,8 @@
               "title": "CRTC战备资料"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             }
           },
           {
-            "id": "bef762294e92b131",
+            "id": "147fd1d2fae8906e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -234,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1号机器人 硬件电路拓扑图 的大纲"
+              "title": "2号机器人 硬件电路拓扑图 的大纲"
             }
           }
         ]
@@ -262,21 +263,22 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "1eb8b212e4fe947a",
+  "active": "502b03a6a3b4c18f",
   "lastOpenFiles": [
+    "硬件组资料/3节 电池盒尺寸.png",
+    "硬件组资料/4节 电池盒尺寸.png",
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "电控组资料/PS2 按键定义.png",
+    "机械组资料/机械组资源.md",
+    "docs/一号机器人设计简述及开发日志.md",
     "硬件组资料/履带尺寸.png",
     "履带尺寸.png",
-    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "Pasted image 20251009192846.png",
-    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
     "CRTC战备资料.md",
-    "docs/一号机器人设计简述及开发日志.md",
-    "机械组资料/机械组资源.md",
     "电控组资料/DR920SR-PS SPI数据格式V1.41.pdf",
     "电控组资料/DR920SR-PS SPI数据格式V1.41(3).pdf.crdownload",
-    "硬件组资料/电池盒尺寸.png",
     "硬件组资料/DCE001 降压模块.png",
-    "硬件组资料/PS2 按键定义.png",
     "硬件组资料/PS2 引脚定义.png",
     "docs/二号机器人设计简述及开发日志.md",
     "未命名.md",
@@ -290,8 +292,6 @@
     "电控组资料/电控组资源.md",
     "硬件组资料/33GB-520电机 设计图.png",
     "硬件组资料/33GB-520电机 基础尺寸.png",
-    "硬件组资料/轮胎马达总长.png",
-    "硬件组资料/轮胎尺寸.png",
     "conflict-files-obsidian-git.md",
     "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
     "电控组资料/肖弋铭资料/PWM呼吸(舵机实现)/PWM/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",

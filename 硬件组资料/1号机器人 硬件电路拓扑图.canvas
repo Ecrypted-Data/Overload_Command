@@ -24,8 +24,8 @@
 		{"id":"0b7b9844fd6e924f","type":"text","text":"LED 指示灯","x":1308,"y":280,"width":134,"height":60,"color":"5"},
 		{"id":"9cc5072ea0ba501a","type":"file","file":"硬件组资料/33GB-520电机 设计图.png","x":904,"y":-807,"width":536,"height":157},
 		{"id":"ac79b86abb1c41cd","type":"file","file":"硬件组资料/PS2 引脚定义.png","x":448,"y":160,"width":400,"height":360},
-		{"id":"957b8c425287ace2","type":"file","file":"硬件组资料/电池盒尺寸.png","x":-184,"y":-684,"width":400,"height":376},
-		{"id":"3b04c41463a58ab8","type":"file","file":"硬件组资料/PS2 按键定义.png","x":-32,"y":280,"width":400,"height":261},
+		{"id":"957b8c425287ace2","type":"file","file":"硬件组资料/4节 电池盒尺寸.png","x":-184,"y":-684,"width":400,"height":376},
+		{"id":"3b04c41463a58ab8","type":"file","file":"电控组资料/PS2 按键定义.png","x":-32,"y":280,"width":400,"height":261},
 		{"id":"b186a5c09a167af9","type":"file","file":"硬件组资料/DCE001 降压模块.png","x":58,"y":-21,"width":280,"height":243},
 		{"id":"57a673470ebfab76","type":"file","file":"硬件组资料/履带尺寸.png","x":1440,"y":-613,"width":360,"height":219}
 	],
