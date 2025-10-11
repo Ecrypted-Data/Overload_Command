@@ -11,17 +11,12 @@
             "id": "1eb8b212e4fe947a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-                "viewState": {
-                  "x": 873.138260647972,
-                  "y": -16.250649773329656,
-                  "zoom": -0.3333333333333332
-                }
+                "file": "机械组资料/M3打印件预留尺寸.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "1号机器人 硬件电路拓扑图"
+              "icon": "lucide-image",
+              "title": "M3打印件预留尺寸"
             }
           },
           {
@@ -73,18 +68,15 @@
             "id": "78b0c7a7e03322b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CRTC战备资料.md",
-                "mode": "source",
-                "source": false
+                "file": "2025CRTC参赛手册 · v0.3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CRTC战备资料"
+              "icon": "lucide-file-text",
+              "title": "2025CRTC参赛手册 · v0.3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +130,7 @@
             }
           },
           {
-            "id": "147fd1d2fae8906e",
+            "id": "3db51b3ea8fbf6de",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -235,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "机械组资料/M3打印件预留尺寸.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "M3打印件预留尺寸 的大纲"
             }
           }
         ]
@@ -263,10 +255,15 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "1eb8b212e4fe947a",
   "lastOpenFiles": [
-    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "机械组资料/M3打印件预留尺寸.png",
+    "2025CRTC参赛手册 · v0.3.pdf",
+    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
+    "CRTC战备资料.md",
     "conflict-files-obsidian-git.md",
+    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
     "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
     "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
     "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h",
@@ -276,31 +273,26 @@
     "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/CMSIS/Device/ST/STM32F1xx",
     "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c",
     "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c",
-    "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c",
     "硬件组资料/3节 电池盒尺寸.png",
     "硬件组资料/4节 电池盒尺寸.png",
-    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "电控组资料/PS2 按键定义.png",
     "机械组资料/机械组资源.md",
     "docs/一号机器人设计简述及开发日志.md",
     "硬件组资料/履带尺寸.png",
     "履带尺寸.png",
     "Pasted image 20251009192846.png",
-    "CRTC战备资料.md",
     "硬件组资料/DCE001 降压模块.png",
     "硬件组资料/PS2 引脚定义.png",
     "docs/二号机器人设计简述及开发日志.md",
     "未命名.md",
     "硬件组资料/硬件组资料.md",
     "任务总览.md",
-    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
     "战备待办事项/机械组待办.md",
     "战备待办事项/电控组待办.md",
     "战备待办事项/战队总待办.md",
     "战备待办事项/战备待办事项.md",
     "电控组资料/电控组资源.md",
     "硬件组资料/33GB-520电机 设计图.png",
-    "硬件组资料/33GB-520电机 基础尺寸.png",
     "README.md",
     "docs/队员学习日志.md",
     "docs/CRTC 2025 比赛策略设计.md",
