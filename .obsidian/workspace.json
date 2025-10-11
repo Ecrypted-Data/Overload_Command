@@ -29,9 +29,9 @@
               "state": {
                 "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "viewState": {
-                  "x": 158.44117994530512,
-                  "y": 181.18620802481215,
-                  "zoom": -0.772066117492952
+                  "x": 854.3345086457916,
+                  "y": -152.15149936747414,
+                  "zoom": 0.227933882507048
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             }
           },
           {
-            "id": "3db51b3ea8fbf6de",
+            "id": "61ba7ffbbcc66dab",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+                "file": "机械组资料/机械组资源.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1号机器人 硬件电路拓扑图 的大纲"
+              "title": "机械组资源 的大纲"
             }
           }
         ]
@@ -261,8 +261,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "73c997ffedf788ce",
+  "active": "34c37b0e953c056e",
   "lastOpenFiles": [
+    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "docs/一号机器人设计简述及开发日志.md",
     "机械组资料/M3打印件预留尺寸.png",
     "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c",
@@ -275,11 +277,9 @@
     "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c",
     "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h",
     "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h",
-    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
     "CRTC战备资料.md",
     "conflict-files-obsidian-git.md",
-    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
     "硬件组资料/3节 电池盒尺寸.png",
     "硬件组资料/4节 电池盒尺寸.png",
     "电控组资料/PS2 按键定义.png",
