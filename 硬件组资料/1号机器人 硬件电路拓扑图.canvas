@@ -28,7 +28,7 @@
 		{"id":"3b04c41463a58ab8","type":"file","file":"电控组资料/PS2 按键定义.png","x":-32,"y":280,"width":400,"height":261},
 		{"id":"b186a5c09a167af9","type":"file","file":"硬件组资料/DCE001 降压模块.png","x":58,"y":-21,"width":280,"height":243},
 		{"id":"57a673470ebfab76","type":"file","file":"硬件组资料/履带尺寸.png","x":1440,"y":-613,"width":360,"height":219},
-		{"id":"bb4e12af262192b4","x":1520,"y":-327,"width":400,"height":234,"type":"file","file":"机械组资料/M3打印件预留尺寸.png"}
+		{"id":"bb4e12af262192b4","type":"file","file":"机械组资料/M3打印件预留尺寸.png","x":1540,"y":-355,"width":660,"height":387}
 	],
 	"edges":[
 		{"id":"3a7cf0c2eaf2ebc2","fromNode":"8979c743ab767858","fromSide":"right","toNode":"e593b4af417b49b6","toSide":"left","color":"1","label":"14V"},
