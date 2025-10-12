@@ -4,7 +4,6 @@
 		{"id":"ab1017c091cf0be6","type":"text","text":"**遥控继电器**","x":368,"y":-119,"width":132,"height":60},
 		{"id":"e593b4af417b49b6","type":"text","text":"**总开关**","x":160,"y":-120,"width":112,"height":60},
 		{"id":"ba7af35d869b8037","type":"text","text":"18650 三星 25R电池  x4","x":-231,"y":-240,"width":232,"height":60,"color":"2"},
-		{"id":"0041afb407a4da8b","type":"file","file":"硬件组资料/无线控制直流单路继电器.png","x":300,"y":-470,"width":266,"height":260},
 		{"id":"40216fc6f248c3f7","type":"file","file":"硬件组资料/L298N 驱动板.png","x":600,"y":-684,"width":276,"height":279},
 		{"id":"46c1a91bf5f57b94","type":"file","file":"硬件组资料/33GB-520电机 基础尺寸.png","x":923,"y":-622,"width":249,"height":215},
 		{"id":"c60193fae3693bc0","type":"file","file":"硬件组资料/33GB-520电机 孔位孔径.png","x":1208,"y":-613,"width":200,"height":197},
@@ -27,7 +26,9 @@
 		{"id":"957b8c425287ace2","type":"file","file":"硬件组资料/4节 电池盒尺寸.png","x":-184,"y":-684,"width":400,"height":376},
 		{"id":"3b04c41463a58ab8","type":"file","file":"电控组资料/PS2 按键定义.png","x":-32,"y":280,"width":400,"height":261},
 		{"id":"b186a5c09a167af9","type":"file","file":"硬件组资料/DCE001 降压模块.png","x":58,"y":-21,"width":280,"height":243},
-		{"id":"57a673470ebfab76","type":"file","file":"硬件组资料/履带尺寸.png","x":1440,"y":-613,"width":360,"height":219}
+		{"id":"57a673470ebfab76","type":"file","file":"硬件组资料/履带尺寸.png","x":1440,"y":-613,"width":360,"height":219},
+		{"id":"bb4e12af262192b4","type":"file","file":"机械组资料/M3打印件预留尺寸.png","x":1540,"y":-355,"width":660,"height":387},
+		{"id":"0041afb407a4da8b","type":"file","file":"硬件组资料/无线控制直流单路继电器.png","x":272,"y":-470,"width":266,"height":260}
 	],
 	"edges":[
 		{"id":"3a7cf0c2eaf2ebc2","fromNode":"8979c743ab767858","fromSide":"right","toNode":"e593b4af417b49b6","toSide":"left","color":"1","label":"14V"},

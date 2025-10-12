@@ -8,6 +8,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "593d7b94694a4036",
             "type": "leaf",
             "state": {
@@ -18,6 +19,86 @@
             }
           }
         ]
+=======
+            "id": "f2f12c994b9e3c96",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+                "viewState": {
+                  "x": 1079.232253464464,
+                  "y": -63.00301536335819,
+                  "zoom": -0.6666666666666665
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "1号机器人 硬件电路拓扑图"
+            }
+          },
+          {
+            "id": "502b03a6a3b4c18f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+                "viewState": {
+                  "x": 397.50679060003904,
+                  "y": -41.46588489896871,
+                  "zoom": -0.43873278415961864
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "2号机器人 硬件电路拓扑图"
+            }
+          },
+          {
+            "id": "34c37b0e953c056e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "机械组资料/机械组资源.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "机械组资源"
+            }
+          },
+          {
+            "id": "78b0c7a7e03322b1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2025CRTC参赛手册 · v0.3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2025CRTC参赛手册 · v0.3"
+            }
+          },
+          {
+            "id": "73c997ffedf788ce",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+                "viewState": {
+                  "x": 1721.5274907727644,
+                  "y": -148.5305038273094,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "1号机器人 硬件电路拓扑图"
+            }
+          }
+        ],
+        "currentTab": 1
+>>>>>>> 924e849a0cf0d6b5bd1754006c8a805a6d7de752
       }
     ],
     "direction": "vertical"
@@ -71,7 +152,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "ec9bda0b66914bcd",
+=======
+            "id": "126543098cbdbc0c",
+>>>>>>> 924e849a0cf0d6b5bd1754006c8a805a6d7de752
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -168,12 +253,20 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+>>>>>>> 924e849a0cf0d6b5bd1754006c8a805a6d7de752
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "大纲"
+=======
+              "title": "2号机器人 硬件电路拓扑图 的大纲"
+>>>>>>> 924e849a0cf0d6b5bd1754006c8a805a6d7de752
             }
           }
         ]
@@ -195,6 +288,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
+<<<<<<< HEAD
   "active": "593d7b94694a4036",
   "lastOpenFiles": [
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
@@ -204,36 +298,53 @@
     "比赛初步设计方案内容规范.md",
     "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
     "任务总览.md",
+=======
+  "active": "502b03a6a3b4c18f",
+  "lastOpenFiles": [
+    "8f89a02b2a1e22a420ef0ac03f02bad1_720.png",
+    "de68cdf7365438db07733c2a6cb25eb3_720.png",
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "docs/一号机器人设计简述及开发日志.md",
+    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "机械组资料/机械组资源.md",
+    "机械组资料/M3打印件预留尺寸.png",
+    "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c",
+    "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h",
+    "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
+    "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
+    "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h",
+    "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c",
+    "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c",
+    "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c",
+    "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h",
+    "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h",
+    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
+    "CRTC战备资料.md",
+>>>>>>> 924e849a0cf0d6b5bd1754006c8a805a6d7de752
     "conflict-files-obsidian-git.md",
-    "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
-    "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
-    "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h",
-    "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/CMSIS/Device/ST/STM32F1xx/LICENSE.txt",
-    "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/CMSIS/Device/ST/STM32F1xx/Include",
-    "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h",
-    "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/CMSIS/Device/ST/STM32F1xx",
-    "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c",
-    "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c",
-    "电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机/PS2-2/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c",
     "硬件组资料/3节 电池盒尺寸.png",
     "硬件组资料/4节 电池盒尺寸.png",
     "电控组资料/PS2 按键定义.png",
+<<<<<<< HEAD
     "机械组资料/机械组资源.md",
+=======
+>>>>>>> 924e849a0cf0d6b5bd1754006c8a805a6d7de752
     "硬件组资料/履带尺寸.png",
     "履带尺寸.png",
     "Pasted image 20251009192846.png",
-    "CRTC战备资料.md",
     "硬件组资料/DCE001 降压模块.png",
     "硬件组资料/PS2 引脚定义.png",
     "未命名.md",
     "硬件组资料/硬件组资料.md",
+<<<<<<< HEAD
+=======
+    "任务总览.md",
+>>>>>>> 924e849a0cf0d6b5bd1754006c8a805a6d7de752
     "战备待办事项/机械组待办.md",
     "战备待办事项/电控组待办.md",
     "战备待办事项/战队总待办.md",
     "战备待办事项/战备待办事项.md",
     "电控组资料/电控组资源.md",
-    "硬件组资料/33GB-520电机 设计图.png",
-    "硬件组资料/33GB-520电机 基础尺寸.png",
     "README.md",
     "docs/队员学习日志.md",
     "docs/CRTC 2025 比赛策略设计.md",
