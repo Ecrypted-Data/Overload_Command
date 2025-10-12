@@ -39,10 +39,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//docs",
-    "//战备待办事项",
-    "//机械组资料",
-    "//硬件组资料"
+    "//docs"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
