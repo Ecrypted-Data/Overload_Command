@@ -11,14 +11,17 @@
             "id": "f2f12c994b9e3c96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "docs/一号机器人设计简述及开发日志.md",
-                "mode": "source",
-                "source": false
+                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+                "viewState": {
+                  "x": 1079.232253464464,
+                  "y": -63.00301536335819,
+                  "zoom": -0.6666666666666665
+                }
               },
-              "icon": "lucide-file",
-              "title": "一号机器人设计简述及开发日志"
+              "icon": "lucide-layout-dashboard",
+              "title": "1号机器人 硬件电路拓扑图"
             }
           },
           {
@@ -29,9 +32,9 @@
               "state": {
                 "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "viewState": {
-                  "x": 854.3345086457916,
-                  "y": -152.15149936747414,
-                  "zoom": 0.227933882507048
+                  "x": 397.50679060003904,
+                  "y": -41.46588489896871,
+                  "zoom": -0.43873278415961864
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -82,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +139,7 @@
             }
           },
           {
-            "id": "61ba7ffbbcc66dab",
+            "id": "126543098cbdbc0c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -233,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机械组资料/机械组资源.md",
+                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "机械组资源 的大纲"
+              "title": "2号机器人 硬件电路拓扑图 的大纲"
             }
           }
         ]
@@ -261,11 +264,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "34c37b0e953c056e",
+  "active": "502b03a6a3b4c18f",
   "lastOpenFiles": [
-    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "8f89a02b2a1e22a420ef0ac03f02bad1_720.png",
+    "de68cdf7365438db07733c2a6cb25eb3_720.png",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "docs/一号机器人设计简述及开发日志.md",
+    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "机械组资料/机械组资源.md",
     "机械组资料/M3打印件预留尺寸.png",
     "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c",
     "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h",
@@ -283,7 +289,6 @@
     "硬件组资料/3节 电池盒尺寸.png",
     "硬件组资料/4节 电池盒尺寸.png",
     "电控组资料/PS2 按键定义.png",
-    "机械组资料/机械组资源.md",
     "硬件组资料/履带尺寸.png",
     "履带尺寸.png",
     "Pasted image 20251009192846.png",
@@ -298,7 +303,6 @@
     "战备待办事项/战队总待办.md",
     "战备待办事项/战备待办事项.md",
     "电控组资料/电控组资源.md",
-    "硬件组资料/33GB-520电机 设计图.png",
     "README.md",
     "docs/队员学习日志.md",
     "docs/CRTC 2025 比赛策略设计.md",
