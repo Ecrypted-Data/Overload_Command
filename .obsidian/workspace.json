@@ -11,34 +11,24 @@
             "id": "f2f12c994b9e3c96",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-                "viewState": {
-                  "x": 1079.232253464464,
-                  "y": -63.00301536335819,
-                  "zoom": -0.6666666666666665
-                }
+                "file": "硬件组资料/N20 紧固件尺寸.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "1号机器人 硬件电路拓扑图"
+              "icon": "lucide-image",
+              "title": "N20 紧固件尺寸"
             }
           },
           {
             "id": "502b03a6a3b4c18f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
-                "viewState": {
-                  "x": 397.50679060003904,
-                  "y": -41.46588489896871,
-                  "zoom": -0.43873278415961864
-                }
+                "file": "硬件组资料/N20 电机.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2号机器人 硬件电路拓扑图"
+              "icon": "lucide-image",
+              "title": "N20 电机"
             }
           },
           {
@@ -84,8 +74,7 @@
               "title": "1号机器人 硬件电路拓扑图"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +128,7 @@
             }
           },
           {
-            "id": "126543098cbdbc0c",
+            "id": "21b0db0c4da443df",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -236,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+                "file": "硬件组资料/N20 紧固件尺寸.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2号机器人 硬件电路拓扑图 的大纲"
+              "title": "N20 紧固件尺寸 的大纲"
             }
           }
         ]
@@ -264,13 +253,15 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "502b03a6a3b4c18f",
+  "active": "21b0db0c4da443df",
   "lastOpenFiles": [
-    "8f89a02b2a1e22a420ef0ac03f02bad1_720.png",
-    "de68cdf7365438db07733c2a6cb25eb3_720.png",
+    "硬件组资料/N20 蜗杆电机.png",
+    "硬件组资料/N20 紧固件尺寸.png",
+    "硬件组资料/N20紧固件孔径.png",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-    "docs/一号机器人设计简述及开发日志.md",
+    "硬件组资料/N20 电机.png",
     "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "docs/一号机器人设计简述及开发日志.md",
     "机械组资料/机械组资源.md",
     "机械组资料/M3打印件预留尺寸.png",
     "电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置/Template-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c",
@@ -291,9 +282,6 @@
     "电控组资料/PS2 按键定义.png",
     "硬件组资料/履带尺寸.png",
     "履带尺寸.png",
-    "Pasted image 20251009192846.png",
-    "硬件组资料/DCE001 降压模块.png",
-    "硬件组资料/PS2 引脚定义.png",
     "docs/二号机器人设计简述及开发日志.md",
     "未命名.md",
     "硬件组资料/硬件组资料.md",

@@ -25,8 +25,8 @@
 		{"id":"3f44282c358a5e0f","type":"file","file":"硬件组资料/D4184 场效应管模块.png","x":-786,"y":40,"width":260,"height":270},
 		{"id":"568f41b332fd5e6b","type":"file","file":"硬件组资料/DCE001 降压模块.png","x":-463,"y":99,"width":280,"height":243},
 		{"id":"e5c71f2781993346","type":"file","file":"硬件组资料/3节 电池盒尺寸.png","x":-826,"y":-648,"width":363,"height":351},
-		{"id":"b70dc34d90ee51e0","x":1040,"y":-137,"width":297,"height":222,"type":"file","file":"de68cdf7365438db07733c2a6cb25eb3_720.png"},
-		{"id":"03ce935ef58920d0","x":1378,"y":-136,"width":287,"height":221,"type":"file","file":"8f89a02b2a1e22a420ef0ac03f02bad1_720.png"}
+		{"id":"b70dc34d90ee51e0","type":"file","file":"硬件组资料/N20 紧固件尺寸.png","x":1040,"y":-137,"width":297,"height":222},
+		{"id":"03ce935ef58920d0","type":"file","file":"硬件组资料/N20紧固件孔径.png","x":1378,"y":-136,"width":287,"height":221}
 	],
 	"edges":[
 		{"id":"6f356298ba073c75","fromNode":"03a5f14882ccff76","fromSide":"right","toNode":"199a9c6af9266d3b","toSide":"left","color":"3","label":"12V"},

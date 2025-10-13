@@ -9,7 +9,7 @@
 		{"id":"c60193fae3693bc0","type":"file","file":"硬件组资料/33GB-520电机 孔位孔径.png","x":1208,"y":-613,"width":200,"height":197},
 		{"id":"149ad35f59040828","type":"text","text":"拔出5V稳压跳线帽","x":338,"y":-574,"width":192,"height":60,"color":"2"},
 		{"id":"5e4e141ec0e99dc2","type":"text","text":"**DCE001降压模块** 1","x":643,"y":-90,"width":190,"height":60,"color":"4"},
-		{"id":"cae00e41fbd7e797","type":"text","text":"**MG90舵机**","x":994,"y":40,"width":132,"height":60,"color":"5"},
+		{"id":"cae00e41fbd7e797","type":"text","text":"**N20蜗杆电机**","x":994,"y":40,"width":146,"height":60,"color":"5"},
 		{"id":"b44015392aefa925","type":"text","text":"**STM32**","x":1007,"y":-90,"width":106,"height":60,"color":"5"},
 		{"id":"b00dc405afdbf40f","type":"text","text":"**DCE001降压模块** 2","x":643,"y":40,"width":192,"height":60,"color":"#004d25"},
 		{"id":"61e64d5fac654053","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":1191,"y":-355,"width":281,"height":230},
@@ -27,8 +27,9 @@
 		{"id":"3b04c41463a58ab8","type":"file","file":"电控组资料/PS2 按键定义.png","x":-32,"y":280,"width":400,"height":261},
 		{"id":"b186a5c09a167af9","type":"file","file":"硬件组资料/DCE001 降压模块.png","x":58,"y":-21,"width":280,"height":243},
 		{"id":"57a673470ebfab76","type":"file","file":"硬件组资料/履带尺寸.png","x":1440,"y":-613,"width":360,"height":219},
-		{"id":"bb4e12af262192b4","type":"file","file":"机械组资料/M3打印件预留尺寸.png","x":1540,"y":-355,"width":660,"height":387},
-		{"id":"0041afb407a4da8b","type":"file","file":"硬件组资料/无线控制直流单路继电器.png","x":272,"y":-470,"width":266,"height":260}
+		{"id":"0041afb407a4da8b","type":"file","file":"硬件组资料/无线控制直流单路继电器.png","x":272,"y":-470,"width":266,"height":260},
+		{"id":"bb4e12af262192b4","type":"file","file":"机械组资料/M3打印件预留尺寸.png","x":198,"y":-1115,"width":660,"height":387},
+		{"id":"64801aae1a920f5b","type":"file","file":"硬件组资料/N20 蜗杆电机.png","x":1375,"y":-83,"width":400,"height":306}
 	],
 	"edges":[
 		{"id":"3a7cf0c2eaf2ebc2","fromNode":"8979c743ab767858","fromSide":"right","toNode":"e593b4af417b49b6","toSide":"left","color":"1","label":"14V"},
@@ -61,6 +62,7 @@
 		{"id":"7b60c35b69d1c01a","fromNode":"ac79b86abb1c41cd","fromSide":"left","toNode":"3b04c41463a58ab8","toSide":"right"},
 		{"id":"934ab6fa2cdf9f70","fromNode":"8979c743ab767858","fromSide":"right","toNode":"957b8c425287ace2","toSide":"bottom"},
 		{"id":"9db81c52dba60b7d","fromNode":"5e4e141ec0e99dc2","fromSide":"left","toNode":"b186a5c09a167af9","toSide":"right"},
-		{"id":"ab3563b697bc8b21","fromNode":"b00dc405afdbf40f","fromSide":"left","toNode":"b186a5c09a167af9","toSide":"right"}
+		{"id":"ab3563b697bc8b21","fromNode":"b00dc405afdbf40f","fromSide":"left","toNode":"b186a5c09a167af9","toSide":"right"},
+		{"id":"8f07fed95360de04","fromNode":"cae00e41fbd7e797","fromSide":"right","toNode":"64801aae1a920f5b","toSide":"left"}
 	]
 }
