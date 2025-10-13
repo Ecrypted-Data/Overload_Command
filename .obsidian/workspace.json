@@ -11,12 +11,17 @@
             "id": "f2f12c994b9e3c96",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "硬件组资料/N20 紧固件尺寸.png"
+                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+                "viewState": {
+                  "x": 759.0564311784303,
+                  "y": -235.0754276603896,
+                  "zoom": -0.3333333333333332
+                }
               },
-              "icon": "lucide-image",
-              "title": "N20 紧固件尺寸"
+              "icon": "lucide-layout-dashboard",
+              "title": "1号机器人 硬件电路拓扑图"
             }
           },
           {
@@ -128,7 +133,7 @@
             }
           },
           {
-            "id": "21b0db0c4da443df",
+            "id": "eb9aa6903f245cac",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -225,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "1号机器人 硬件电路拓扑图 的大纲"
             }
           }
         ]
@@ -253,7 +258,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "f2f12c994b9e3c96",
   "lastOpenFiles": [
     "硬件组资料/N20 紧固件尺寸.png",
     "conflict-files-obsidian-git.md",
