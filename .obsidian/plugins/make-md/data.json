@@ -39,10 +39,14 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//docs",
-    "//战备待办事项",
-    "//机械组资料",
-    "//硬件组资料"
+    "//电控组资料/电控组资料/肖弋铭资料/电控组资料/肖弋铭资料/VSCode&EIDE&Cortex-Debug&OpenOCD&CubeMX&MakeFile 初始模板配置/电控组资料/肖弋铭资料/VSCode&EIDE&Cortex-Debug&OpenOCD&CubeMX&MakeFile 初始模板配置/Template",
+    "//电控组资料/电控组资料/肖弋铭资料/电控组资料/肖弋铭资料/串口通信(板载Micro-USB) 初始模板配置",
+    "//电控组资料/电控组资料/肖弋铭资料/电控组资料/肖弋铭资料/VSCode&EIDE&Cortex-Debug&OpenOCD&CubeMX&MakeFile 初始模板配置",
+    "//电控组资料/电控组资料/肖弋铭资料/电控组资料/肖弋铭资料/PWM呼吸(舵机实现)",
+    "//电控组资料/电控组资料/肖弋铭资料/电控组资料/肖弋铭资料/PS2连接&映射控制SG90舵机",
+    "//电控组资料/电控组资料/肖弋铭资料/电控组资料/肖弋铭资料/PC13简单点灯",
+    "//电控组资料/电控组资料/肖弋铭资料/电控组资料/肖弋铭资料/FreeRTOS移植 初始模板配置",
+    "//电控组资料/电控组资料/肖弋铭资料/电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

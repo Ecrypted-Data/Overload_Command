@@ -1,78 +1,23 @@
 {
   "main": {
-    "id": "dba98a3357122086",
+    "id": "89c66d7753b7165e",
     "type": "split",
     "children": [
       {
-        "id": "412a4ed5c4dbc237",
+        "id": "6ceb388207c553e9",
         "type": "tabs",
         "children": [
           {
-            "id": "f2f12c994b9e3c96",
+            "id": "6ae2f5af3c9e54f3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
                 "viewState": {
-                  "x": 759.0564311784303,
-                  "y": -235.0754276603896,
-                  "zoom": -0.3333333333333332
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "1号机器人 硬件电路拓扑图"
-            }
-          },
-          {
-            "id": "502b03a6a3b4c18f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "硬件组资料/N20 电机.png"
-              },
-              "icon": "lucide-image",
-              "title": "N20 电机"
-            }
-          },
-          {
-            "id": "34c37b0e953c056e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机械组资料/机械组资源.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "机械组资源"
-            }
-          },
-          {
-            "id": "78b0c7a7e03322b1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2025CRTC参赛手册 · v0.3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025CRTC参赛手册 · v0.3"
-            }
-          },
-          {
-            "id": "73c997ffedf788ce",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-                "viewState": {
-                  "x": 1721.5274907727644,
-                  "y": -148.5305038273094,
-                  "zoom": 1
+                  "x": 908.1810623662799,
+                  "y": -180.0559782634629,
+                  "zoom": -2.1999999999999997
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -85,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f26978613af212f6",
+    "id": "803ebae97bbe1488",
     "type": "split",
     "children": [
       {
-        "id": "a38b3491456b9a90",
+        "id": "fb1d4983d480e655",
         "type": "tabs",
         "children": [
           {
-            "id": "d2854b7cbe8d1620",
+            "id": "6621f32f89c8891a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -106,7 +51,7 @@
             }
           },
           {
-            "id": "0b8a218293f9f8aa",
+            "id": "02f3df57e85721c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -123,7 +68,7 @@
             }
           },
           {
-            "id": "9e7adde5da1ce737",
+            "id": "b2086feaeb39b42a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -133,7 +78,7 @@
             }
           },
           {
-            "id": "eb9aa6903f245cac",
+            "id": "3fe4b79515fc024d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -147,24 +92,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 200
   },
   "right": {
-    "id": "7c3ef2a1f07eea6a",
+    "id": "350ac457b0137785",
     "type": "split",
     "children": [
       {
-        "id": "d88fba3a01d21164",
+        "id": "2d733018c9f78fe3",
         "type": "tabs",
-        "dimension": 49.28571428571429,
         "children": [
           {
-            "id": "7f472c27802f1da2",
+            "id": "9f8e9e53e8c23364",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "比赛初步设计方案内容规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,25 +117,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "比赛初步设计方案内容规范 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "feb68c6eb65012bb",
+            "id": "23100657eddb063d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "比赛初步设计方案内容规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "比赛初步设计方案内容规范 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "65b30ca95ee103cd",
+            "id": "a2f75020e8a86768",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -207,7 +149,21 @@
             }
           },
           {
-            "id": "20df0f3d6e4c5c35",
+            "id": "788e7bd991a39fca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "fed4c5089b406179",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -217,33 +173,11 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "8f4200fd48c9a148",
-        "type": "tabs",
-        "dimension": 50.71428571428571,
-        "children": [
-          {
-            "id": "1e2a53e5e178249e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "1号机器人 硬件电路拓扑图 的大纲"
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,57 +192,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "f2f12c994b9e3c96",
+  "active": "3fe4b79515fc024d",
   "lastOpenFiles": [
-    "硬件组资料/N20 紧固件尺寸.png",
-    "conflict-files-obsidian-git.md",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang",
-    "硬件组资料/N20 蜗杆电机.png",
-    "硬件组资料/N20紧固件孔径.png",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "docs/一号机器人设计简述及开发日志.md",
     "硬件组资料/N20 电机.png",
     "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
-    "docs/一号机器人设计简述及开发日志.md",
-    "机械组资料/机械组资源.md",
-    "机械组资料/M3打印件预留尺寸.png",
-    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
-    "CRTC战备资料.md",
-    "硬件组资料/3节 电池盒尺寸.png",
-    "硬件组资料/4节 电池盒尺寸.png",
-    "电控组资料/PS2 按键定义.png",
-    "硬件组资料/履带尺寸.png",
-    "履带尺寸.png",
-    "docs/二号机器人设计简述及开发日志.md",
-    "未命名.md",
-    "硬件组资料/硬件组资料.md",
-    "任务总览.md",
-    "战备待办事项/机械组待办.md",
-    "战备待办事项/电控组待办.md",
-    "战备待办事项/战队总待办.md",
-    "战备待办事项/战备待办事项.md",
-    "电控组资料/电控组资源.md",
-    "README.md",
-    "docs/队员学习日志.md",
-    "docs/CRTC 2025 比赛策略设计.md",
-    "docs/比赛策略设计流程图.canvas",
-    "docs/[[docs2025-10-5.md2025-10-5]].md",
-    "docs/2025-10-5.md",
+    "硬件组资料/碰撞传感器 KW8-3.png",
     "硬件组资料/硬件组资源.md",
-    "战备待办事项/硬件组待办.md",
-    "//Untitled.canvas",
-    "机器人大赛策略分析.md",
-    "战备待办事项/视觉组待办.md",
-    "电控组资料/电控组资料.md",
-    "Vault.md",
-    "战备待办事项/未命名.canvas"
+    "硬件组资料/N20紧固件孔径.png",
+    "硬件组资料/L298N 驱动板.png",
+    "硬件组资料/N20 蜗杆电机.png",
+    "硬件组资料/N20 紧固件尺寸.png",
+    "任务总览.md"
   ]
 }
