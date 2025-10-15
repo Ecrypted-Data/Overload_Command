@@ -17,9 +17,7 @@
 		{"id":"8bc2b06b8b66cd07","type":"text","text":"**33GB-520电机 A**","x":968,"y":-340,"width":192,"height":60,"color":"3"},
 		{"id":"d6909790eff4cb22","type":"text","text":"**L298N驱动模块 B**","x":648,"y":-240,"width":180,"height":60,"color":"1"},
 		{"id":"be9ad0efa86f49ed","type":"text","text":"**33GB-520电机 B**","x":968,"y":-240,"width":192,"height":60,"color":"3"},
-		{"id":"0b7b9844fd6e924f","type":"text","text":"LED 指示灯","x":1308,"y":280,"width":134,"height":60,"color":"5"},
 		{"id":"9cc5072ea0ba501a","type":"file","file":"硬件组资料/33GB-520电机 设计图.png","x":904,"y":-807,"width":536,"height":157},
-		{"id":"ac79b86abb1c41cd","type":"file","file":"硬件组资料/PS2 引脚定义.png","x":448,"y":160,"width":400,"height":360},
 		{"id":"957b8c425287ace2","type":"file","file":"硬件组资料/4节 电池盒尺寸.png","x":-184,"y":-684,"width":400,"height":376},
 		{"id":"3b04c41463a58ab8","type":"file","file":"电控组资料/PS2 按键定义.png","x":-32,"y":280,"width":400,"height":261},
 		{"id":"b186a5c09a167af9","type":"file","file":"硬件组资料/DCE001 降压模块.png","x":58,"y":-21,"width":280,"height":243},
@@ -27,10 +25,14 @@
 		{"id":"0041afb407a4da8b","type":"file","file":"硬件组资料/无线控制直流单路继电器.png","x":272,"y":-470,"width":266,"height":260},
 		{"id":"bb4e12af262192b4","type":"file","file":"机械组资料/M3打印件预留尺寸.png","x":198,"y":-1115,"width":660,"height":387},
 		{"id":"64801aae1a920f5b","type":"file","file":"硬件组资料/N20 蜗杆电机.png","x":1375,"y":-83,"width":400,"height":306},
-		{"id":"da5cbd5e0d395729","type":"text","text":"PS2 遥控接收模块","x":994,"y":250,"width":178,"height":60,"color":"5"},
-		{"id":"d527a975a4eb6ab3","type":"text","text":"**碰撞传感器 KW8-3**","x":994,"y":370,"width":197,"height":60,"color":"5"},
-		{"id":"8d31b85f23719558","type":"file","file":"硬件组资料/碰撞传感器 KW8-3.png","x":962,"y":471,"width":261,"height":219},
-		{"id":"84c5f20618ae320f","type":"text","text":"**N20蜗杆电机 B**","x":994,"y":130,"width":166,"height":60,"color":"3"}
+		{"id":"84c5f20618ae320f","type":"text","text":"**N20蜗杆电机 B**","x":994,"y":130,"width":166,"height":60,"color":"3"},
+		{"id":"da5cbd5e0d395729","type":"text","text":"PS2 遥控接收模块","x":994,"y":411,"width":178,"height":60,"color":"5"},
+		{"id":"d527a975a4eb6ab3","type":"text","text":"**碰撞传感器 KW8-3**","x":994,"y":531,"width":197,"height":60,"color":"5"},
+		{"id":"8d31b85f23719558","type":"file","file":"硬件组资料/碰撞传感器 KW8-3.png","x":962,"y":632,"width":261,"height":219},
+		{"id":"0b7b9844fd6e924f","type":"text","text":"LED 指示灯","x":1308,"y":531,"width":134,"height":60,"color":"5"},
+		{"id":"ac79b86abb1c41cd","type":"file","file":"硬件组资料/PS2 引脚定义.png","x":448,"y":321,"width":400,"height":360},
+		{"id":"daf6b4efc52b38d3","type":"text","text":"**直柄碰撞传感器**","x":994,"y":261,"width":178,"height":60,"color":"5"},
+		{"id":"b45a4c7e6380b5fb","type":"file","file":"硬件组资料/直柄碰撞传感器.png","x":1472,"y":261,"width":400,"height":383}
 	],
 	"edges":[
 		{"id":"3a7cf0c2eaf2ebc2","fromNode":"8979c743ab767858","fromSide":"right","toNode":"e593b4af417b49b6","toSide":"left","color":"1","label":"14V"},
@@ -64,8 +66,11 @@
 		{"id":"ab3563b697bc8b21","fromNode":"b00dc405afdbf40f","fromSide":"left","toNode":"b186a5c09a167af9","toSide":"right"},
 		{"id":"8f07fed95360de04","fromNode":"cae00e41fbd7e797","fromSide":"right","toNode":"64801aae1a920f5b","toSide":"left"},
 		{"id":"fe2a0bc5f14a4585","fromNode":"ab1017c091cf0be6","fromSide":"right","toNode":"d6909790eff4cb22","toSide":"left","color":"1"},
-		{"id":"11d76fb6e3ee8322","fromNode":"d6909790eff4cb22","fromSide":"right","toNode":"84c5f20618ae320f","toSide":"left","color":"1"},
-		{"id":"c147c350eaf07506","fromNode":"7d1b79578e1d3261","fromSide":"right","toNode":"cae00e41fbd7e797","toSide":"left","color":"1"},
-		{"id":"d4f5b2acaba40e37","fromNode":"84c5f20618ae320f","fromSide":"right","toNode":"64801aae1a920f5b","toSide":"left"}
+		{"id":"11d76fb6e3ee8322","fromNode":"d6909790eff4cb22","fromSide":"right","toNode":"84c5f20618ae320f","toSide":"left","color":"3"},
+		{"id":"c147c350eaf07506","fromNode":"7d1b79578e1d3261","fromSide":"right","toNode":"cae00e41fbd7e797","toSide":"left","color":"3"},
+		{"id":"d4f5b2acaba40e37","fromNode":"84c5f20618ae320f","fromSide":"right","toNode":"64801aae1a920f5b","toSide":"left"},
+		{"id":"be15d979317b6a42","fromNode":"b00dc405afdbf40f","fromSide":"right","toNode":"daf6b4efc52b38d3","toSide":"left","color":"#0c3a22"},
+		{"id":"d3c227190a6e680b","fromNode":"daf6b4efc52b38d3","fromSide":"right","toNode":"b45a4c7e6380b5fb","toSide":"left"},
+		{"id":"807084b93d54a8a8","fromNode":"daf6b4efc52b38d3","fromSide":"right","toNode":"b44015392aefa925","toSide":"right","color":"5"}
 	]
 }

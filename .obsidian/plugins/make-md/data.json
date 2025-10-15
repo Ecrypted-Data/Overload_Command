@@ -38,7 +38,8 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//机械组资料"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
