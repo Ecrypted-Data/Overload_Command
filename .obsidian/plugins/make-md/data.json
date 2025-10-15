@@ -38,10 +38,7 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//docs",
-    "//战备待办事项",
-    "//机械组资料"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -53,6 +50,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
@@ -71,11 +70,11 @@
   "indexSVG": false,
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "releaseNotesPrompt": 0.999,
+  "releaseNotesPrompt": 0.8,
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "CRTC战备资料",
+  "systemName": "Vault",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
@@ -102,7 +101,7 @@
     "emojiTriggerChar": ":",
     "flowState": false
   },
-  "firstLaunch": true,
+  "firstLaunch": false,
   "notesPreview": false,
   "editStickerInSidebar": true,
   "overrideNativeMenu": false,
