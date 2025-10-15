@@ -41,8 +41,7 @@
     "/",
     "//docs",
     "//战备待办事项",
-    "//机械组资料",
-    "//硬件组资料"
+    "//机械组资料"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
