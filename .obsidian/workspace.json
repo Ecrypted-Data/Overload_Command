@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3b2bcdd9eca0f694",
+        "id": "e340fcab6f6714e4",
         "type": "tabs",
         "children": [
           {
-            "id": "f77cd25ecd189437",
+            "id": "69c8c9223c504e09",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-                "viewState": {
-                  "x": 1125.00143830591,
-                  "y": -111.63242529563692,
-                  "zoom": 1.1102230246251565e-16
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "1号机器人 硬件电路拓扑图"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +71,7 @@
             }
           },
           {
-            "id": "8d87ea08155b7c7c",
+            "id": "b14c3fc8313d93c1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -92,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 200
   },
   "right": {
     "id": "7c3ef2a1f07eea6a",
@@ -175,20 +168,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1号机器人 硬件电路拓扑图 的大纲"
+              "title": "大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,8 +195,19 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "f77cd25ecd189437",
+  "active": "69c8c9223c504e09",
   "lastOpenFiles": [
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "电控组资料/肖弋铭资料/1号最终版/Base/Final/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h",
+    "电控组资料/肖弋铭资料/1号最终版/Base/Final/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c",
+    "电控组资料/肖弋铭资料/1号最终版/Base/Final/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c",
+    "电控组资料/肖弋铭资料/1号最终版/Base/Final/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
+    "电控组资料/肖弋铭资料/1号最终版/Base/Final/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
+    "电控组资料/肖弋铭资料/1号最终版/Base/Final/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h",
+    "电控组资料/肖弋铭资料/1号最终版/Base/Final/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h",
+    "电控组资料/肖弋铭资料/1号最终版/Base/Final/Middlewares/Third_Party/FreeRTOS/Source/include/task.h",
+    "电控组资料/肖弋铭资料/1号最终版/Base/Final/Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h",
+    "电控组资料/肖弋铭资料/1号最终版/Base/Final/Middlewares/Third_Party/FreeRTOS/Source/include/StackMacros.h",
     "机械组资料/机械组资源.md",
     "机械组资料/现有标准件汇总.md",
     "机械组资料/滚珠轴承参数.jpg",
@@ -212,22 +215,11 @@
     "2025CRTC参赛手册 v1.0.md",
     "机械组资料/机械组资料.md",
     "硬件组资料/硬件组资料.md",
-    "2025CRTC参赛手册 · v0.2.pdf",
-    "2025CRTC参赛手册 · v0.3.pdf",
     "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
-    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "硬件组资料/直柄碰撞传感器.png",
     "conflict-files-obsidian-git.md",
     "硬件组资料/N20 电机.png",
-    "2025CRTC参赛手册 · v1.0.pdf",
     "硬件组资料/N20 紧固件尺寸.png",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c",
     "硬件组资料/N20 蜗杆电机.png",
     "硬件组资料/N20紧固件孔径.png",
     "docs/一号机器人设计简述及开发日志.md",
