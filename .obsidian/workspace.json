@@ -11,17 +11,14 @@
             "id": "f77cd25ecd189437",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-                "viewState": {
-                  "x": 1125.00143830591,
-                  "y": -111.63242529563692,
-                  "zoom": 1.1102230246251565e-16
-                }
+                "file": "机械组资料/现有标准件汇总.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "1号机器人 硬件电路拓扑图"
+              "icon": "lucide-file",
+              "title": "现有标准件汇总"
             }
           }
         ]
@@ -78,7 +75,7 @@
             }
           },
           {
-            "id": "8d87ea08155b7c7c",
+            "id": "6735a5b3d60342e4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -175,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+                "file": "机械组资料/现有标准件汇总.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1号机器人 硬件电路拓扑图 的大纲"
+              "title": "现有标准件汇总 的大纲"
             }
           }
         ]
@@ -205,6 +202,7 @@
   },
   "active": "f77cd25ecd189437",
   "lastOpenFiles": [
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "机械组资料/机械组资源.md",
     "机械组资料/现有标准件汇总.md",
     "机械组资料/滚珠轴承参数.jpg",
@@ -215,7 +213,6 @@
     "2025CRTC参赛手册 · v0.2.pdf",
     "2025CRTC参赛手册 · v0.3.pdf",
     "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
-    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "硬件组资料/直柄碰撞传感器.png",
     "conflict-files-obsidian-git.md",
     "硬件组资料/N20 电机.png",

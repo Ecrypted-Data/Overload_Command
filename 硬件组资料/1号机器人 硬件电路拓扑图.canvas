@@ -33,7 +33,7 @@
 		{"id":"cae00e41fbd7e797","type":"text","text":"**N20蜗杆电机 A**","x":1006,"y":190,"width":166,"height":60,"color":"3"},
 		{"id":"84c5f20618ae320f","type":"text","text":"**N20蜗杆电机 B**","x":1006,"y":280,"width":166,"height":60,"color":"3"},
 		{"id":"64801aae1a920f5b","type":"file","file":"硬件组资料/N20 蜗杆电机.png","x":1387,"y":67,"width":400,"height":306},
-		{"id":"3bc9b06531a3b561","x":1019,"y":-79,"width":141,"height":60,"color":"4","type":"text","text":"**SG90 舵机**"}
+		{"id":"3bc9b06531a3b561","type":"text","text":"**SG90 舵机**","x":1019,"y":-79,"width":141,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"3a7cf0c2eaf2ebc2","fromNode":"8979c743ab767858","fromSide":"right","toNode":"e593b4af417b49b6","toSide":"left","color":"1","label":"14V"},
