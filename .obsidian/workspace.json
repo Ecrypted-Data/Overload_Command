@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e340fcab6f6714e4",
+        "id": "7e96cec2e775df63",
         "type": "tabs",
         "children": [
           {
-            "id": "69c8c9223c504e09",
+            "id": "374759df81e59282",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "5843bfc3fc321577",
+            "id": "87346c8bf4c21122",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -195,7 +195,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "69c8c9223c504e09",
+  "active": "374759df81e59282",
   "lastOpenFiles": [
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "电控组资料/肖弋铭资料/1号最终版/Base/Final/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h",
