@@ -11,14 +11,17 @@
             "id": "f77cd25ecd189437",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "机械组资料/现有标准件汇总.md",
-                "mode": "source",
-                "source": false
+                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+                "viewState": {
+                  "x": 457.31415767868793,
+                  "y": 44.993831654991695,
+                  "zoom": -0.946433049868177
+                }
               },
-              "icon": "lucide-file",
-              "title": "现有标准件汇总"
+              "icon": "lucide-layout-dashboard",
+              "title": "2号机器人 硬件电路拓扑图"
             }
           }
         ]
@@ -75,7 +78,7 @@
             }
           },
           {
-            "id": "6735a5b3d60342e4",
+            "id": "3ceeb0b35a8eb8c8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -172,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机械组资料/现有标准件汇总.md",
+                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "现有标准件汇总 的大纲"
+              "title": "2号机器人 硬件电路拓扑图 的大纲"
             }
           }
         ]
@@ -202,9 +205,9 @@
   },
   "active": "f77cd25ecd189437",
   "lastOpenFiles": [
+    "机械组资料/现有标准件汇总.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "机械组资料/机械组资源.md",
-    "机械组资料/现有标准件汇总.md",
     "机械组资料/滚珠轴承参数.jpg",
     "机械组资料/平头小螺丝参数.jpg",
     "2025CRTC参赛手册 v1.0.md",
