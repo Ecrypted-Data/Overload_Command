@@ -23,8 +23,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "2号机器人 硬件电路拓扑图"
             }
+          },
+          {
+            "id": "7fecfd81e55d6fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2号机器人 硬件电路拓扑图 的大纲"
+              "title": "conflict-files-obsidian-git 的大纲"
             }
           }
         ]
@@ -203,8 +218,23 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "f77cd25ecd189437",
+  "active": "7fecfd81e55d6fdf",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/PS2_README.md",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo/SERVO_USAGE.md",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo/PS2_README.md",
     "机械组资料/现有标准件汇总.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "机械组资料/机械组资源.md",
@@ -213,21 +243,9 @@
     "2025CRTC参赛手册 v1.0.md",
     "机械组资料/机械组资料.md",
     "硬件组资料/硬件组资料.md",
-    "2025CRTC参赛手册 · v0.2.pdf",
-    "2025CRTC参赛手册 · v0.3.pdf",
-    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
     "硬件组资料/直柄碰撞传感器.png",
-    "conflict-files-obsidian-git.md",
     "硬件组资料/N20 电机.png",
-    "2025CRTC参赛手册 · v1.0.pdf",
     "硬件组资料/N20 紧固件尺寸.png",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3",
-    "电控组资料/肖弋铭资料/FreeRTOS&PS2连接&串口通信&控制N20电机正反转速/FreeRTOS-PS2-SerialCommunication/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c",
     "硬件组资料/N20 蜗杆电机.png",
     "硬件组资料/N20紧固件孔径.png",
     "docs/一号机器人设计简述及开发日志.md",
@@ -250,10 +268,7 @@
     "docs/比赛策略设计流程图.canvas",
     "docs/[[docs2025-10-5.md2025-10-5]].md",
     "docs/2025-10-5.md",
-    "硬件组资料/硬件组资源.md",
-    "战备待办事项/硬件组待办.md",
     "//Untitled.canvas",
-    "机器人大赛策略分析.md",
     "战备待办事项/未命名.canvas"
   ]
 }
