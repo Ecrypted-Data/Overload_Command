@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e96cec2e775df63",
+        "id": "0ae55f581ca34714",
         "type": "tabs",
         "children": [
           {
-            "id": "374759df81e59282",
+            "id": "938031d730f49ec2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "87346c8bf4c21122",
+            "id": "be057fb254fcd199",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -168,12 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "1号机器人 硬件电路拓扑图 的大纲"
             }
           }
         ]
@@ -195,7 +196,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "374759df81e59282",
+  "active": "20df0f3d6e4c5c35",
   "lastOpenFiles": [
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "电控组资料/肖弋铭资料/1号最终版/Base/Final/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h",
