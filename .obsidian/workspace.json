@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "dba98a3357122086",
+    "id": "b5f8b4f678718952",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "0ae55f581ca34714",
+        "id": "f689c192b2f58633",
         "type": "tabs",
         "children": [
           {
-            "id": "938031d730f49ec2",
-=======
-        "id": "3b2bcdd9eca0f694",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f77cd25ecd189437",
->>>>>>> 1484fb5b7c404237ed1947f40202d593bfb597a7
+            "id": "2fd707c7915958d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/一号机器人设计简述及开发日志.md",
+                "file": "docs/电控开发日志_一号/DEVELOPMENT_LOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一号机器人设计简述及开发日志"
+              "title": "DEVELOPMENT_LOG"
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f26978613af212f6",
+    "id": "54ce594c9665f3bb",
     "type": "split",
     "children": [
       {
-        "id": "a38b3491456b9a90",
+        "id": "ca6a0137a91f1f95",
         "type": "tabs",
         "children": [
           {
-            "id": "d2854b7cbe8d1620",
+            "id": "ac74dd0f96b03b8c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +48,7 @@
             }
           },
           {
-            "id": "0b8a218293f9f8aa",
+            "id": "7d7c925544a20dbd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "9e7adde5da1ce737",
+            "id": "6c3177b3e6b87df3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,11 +75,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "be057fb254fcd199",
-=======
-            "id": "3ceeb0b35a8eb8c8",
->>>>>>> 1484fb5b7c404237ed1947f40202d593bfb597a7
+            "id": "154e48873a186ef6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -101,24 +89,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 300
   },
   "right": {
-    "id": "7c3ef2a1f07eea6a",
+    "id": "b39f5a11d80c2545",
     "type": "split",
     "children": [
       {
-        "id": "d88fba3a01d21164",
+        "id": "3b1e42acc6feaad4",
         "type": "tabs",
-        "dimension": 49.28571428571429,
         "children": [
           {
-            "id": "7f472c27802f1da2",
+            "id": "c43cee4e214852ed",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "比赛初步设计方案内容规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,25 +114,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "比赛初步设计方案内容规范 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "feb68c6eb65012bb",
+            "id": "bd3489dfd42d2fbf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "比赛初步设计方案内容规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "比赛初步设计方案内容规范 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "65b30ca95ee103cd",
+            "id": "156e410e4cefca39",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,51 +146,25 @@
             }
           },
           {
-            "id": "20df0f3d6e4c5c35",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "8f4200fd48c9a148",
-        "type": "tabs",
-        "dimension": 50.71428571428571,
-        "children": [
-          {
-            "id": "1e2a53e5e178249e",
+            "id": "fe225862dccef130",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-=======
-                "file": "docs/一号机器人设计简述及开发日志.md",
->>>>>>> 1484fb5b7c404237ed1947f40202d593bfb597a7
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "1号机器人 硬件电路拓扑图 的大纲"
-=======
-              "title": "一号机器人设计简述及开发日志 的大纲"
->>>>>>> 1484fb5b7c404237ed1947f40202d593bfb597a7
+              "title": "大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,61 +179,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-<<<<<<< HEAD
-  "active": "20df0f3d6e4c5c35",
-=======
-  "active": "f77cd25ecd189437",
->>>>>>> 1484fb5b7c404237ed1947f40202d593bfb597a7
+  "active": "2fd707c7915958d7",
   "lastOpenFiles": [
-    "转移舱门.png",
-    "docs/一号机器人设计简述及开发日志.md",
-    "docs/磁吸模块.png",
-    "战备待办事项/硬件组待办.md",
-    "2025CRTC参赛手册 · v1.0.pdf",
-    "战备待办事项/战队总待办.md",
-    "战备待办事项/机械组待办.md",
-    "战备待办事项/电控组待办.md",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_base/Final.code-workspace",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_base/RTE_Components.h",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_base/Final.ioc",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_base/STM32F103XX_FLASH.ld",
-    "战备待办事项/战备待办事项.md",
-    "README.md",
-    "比赛初步设计方案收集.md",
-    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
-    "conflict-files-obsidian-git.md",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/PS2_README.md",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo/SERVO_USAGE.md",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo/PS2_README.md",
-    "机械组资料/现有标准件汇总.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-    "机械组资料/机械组资源.md",
-    "机械组资料/滚珠轴承参数.jpg",
-    "机械组资料/平头小螺丝参数.jpg",
-    "2025CRTC参赛手册 v1.0.md",
-    "机械组资料/机械组资料.md",
-    "硬件组资料/硬件组资料.md",
-    "硬件组资料/直柄碰撞传感器.png",
-    "硬件组资料/N20 电机.png",
-    "硬件组资料/N20 紧固件尺寸.png",
-    "硬件组资料/N20 蜗杆电机.png",
-    "硬件组资料/N20紧固件孔径.png",
-    "机械组资料/M3打印件预留尺寸.png",
-    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
-    "CRTC战备资料.md",
-    "docs/二号机器人设计简述及开发日志.md",
-    "未命名.md",
-    "任务总览.md",
-    "电控组资料/电控组资源.md",
-    "docs/队员学习日志.md",
-    "docs/CRTC 2025 比赛策略设计.md",
-    "docs/比赛策略设计流程图.canvas",
-    "//Untitled.canvas",
-    "战备待办事项/未命名.canvas"
+    "docs/电控开发日志_一号/DEVELOPMENT_LOG.md",
+    "docs/一号机器人设计简述及开发日志.md",
+    "电控组资料/电控组资料.md",
+    "任务总览.md"
   ]
 }

@@ -39,8 +39,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//docs",
-    "//战备待办事项"
+    "//docs/docs/电控开发日志_一号",
+    "//docs"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
