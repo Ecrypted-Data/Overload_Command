@@ -40,9 +40,8 @@
   "expandedSpaces": [
     "/",
     "//docs",
-    "//战备待办事项",
-    "//电控组资料",
-    "//硬件组资料"
+    "//docs/docs/电控开发日志_一号",
+    "//docs/docs/相关图示"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

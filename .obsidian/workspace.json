@@ -11,17 +11,90 @@
             "id": "f77cd25ecd189437",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/一号机器人设计简述及开发日志.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "一号机器人设计简述及开发日志"
+            }
+          },
+          {
+            "id": "9eb2c0fcb16a397f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/二号机器人设计简述及开发日志.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二号机器人设计简述及开发日志"
+            }
+          },
+          {
+            "id": "221c5028af87a6ab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+                "viewState": {
+                  "x": 49.5,
+                  "y": 56,
+                  "zoom": -0.22952039114040468
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "2号机器人 硬件电路拓扑图"
+            }
+          },
+          {
+            "id": "6a4e43d006952715",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
                 "viewState": {
-                  "x": 982.9047327614973,
-                  "y": -375.9914062011313,
-                  "zoom": -0.7731432947959773
+                  "x": 770.0926570779712,
+                  "y": -45.89023467070399,
+                  "zoom": -0.36627852864751775
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "1号机器人 硬件电路拓扑图"
+            }
+          },
+          {
+            "id": "c991c8458ffb210d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025CRTC参赛手册 v1.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025CRTC参赛手册 v1.0"
+            }
+          },
+          {
+            "id": "b8b3d2f265ebe5e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/电控开发日志_一号/DEVELOPMENT_LOG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DEVELOPMENT_LOG"
             }
           }
         ]
@@ -78,7 +151,7 @@
             }
           },
           {
-            "id": "3072bde838bcccc2",
+            "id": "a375ef88066341c7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -175,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "docs/一号机器人设计简述及开发日志.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "一号机器人设计简述及开发日志 的大纲"
             }
           }
         ]
@@ -203,55 +276,56 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "f77cd25ecd189437",
   "lastOpenFiles": [
-    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
-    "conflict-files-obsidian-git.md",
-    "电控组资料/DR920SR-PS SPI数据格式V1.41.pdf",
-    "电控组资料/~$电控培训第一讲.pptx",
-    "电控组资料/电控组资源.md",
+    "CRTC 2025 比赛策略分析.md",
+    "动力电芯选型：成本与续航.md",
+    "未确认 13942.crdownload",
     "docs/一号机器人设计简述及开发日志.md",
-    "转移舱门.png",
-    "docs/磁吸模块.png",
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "docs/电控开发日志_一号/DEVELOPMENT_LOG.md",
+    "docs/相关图示/排斥铲斗模块.png",
+    "docs/队员学习日志.md",
+    "docs/相关图示/相关图示.md",
+    "docs/相关图示",
+    "docs/Untitled.md",
+    "承接漏斗模块.png",
+    "docs/相关图示/主题弹仓模块.png",
+    "2025CRTC参赛手册 v1.0.md",
+    "docs/二号机器人设计简述及开发日志.md",
+    "docs/2号机器人 硬件拓扑图.png",
+    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
+    "docs/比赛策略设计流程图.png",
+    "docs/1号机器人 硬件拓扑图.png",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/控制方案说明.md",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/圆圈键锁止功能说明.md",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/SERVO_USAGE.md",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/PS2_README.md",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01&motor02/DEVELOPMENT_LOG.md",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01/SERVO_USAGE.md",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01&collision01/PS2_README.md",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01/SERVO_USAGE.md",
+    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo&motor01/PS2_README.md",
+    "conflict-files-obsidian-git.md",
+    "电控组资料/电控组资源.md",
+    "docs/相关图示/转移舱门模块.png",
+    "docs/相关图示/磁吸对接模块.png",
     "战备待办事项/硬件组待办.md",
-    "2025CRTC参赛手册 · v1.0.pdf",
     "战备待办事项/战队总待办.md",
     "战备待办事项/机械组待办.md",
     "战备待办事项/电控组待办.md",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_base/Final.code-workspace",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_base/RTE_Components.h",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_base/Final.ioc",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_base/STM32F103XX_FLASH.ld",
     "战备待办事项/战备待办事项.md",
     "README.md",
-    "比赛初步设计方案收集.md",
-    "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/PS2_README.md",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo/SERVO_USAGE.md",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo/PS2_README.md",
-    "机械组资料/现有标准件汇总.md",
-    "机械组资料/机械组资源.md",
     "机械组资料/滚珠轴承参数.jpg",
     "机械组资料/平头小螺丝参数.jpg",
-    "2025CRTC参赛手册 v1.0.md",
-    "机械组资料/机械组资料.md",
-    "硬件组资料/硬件组资料.md",
-    "硬件组资料/直柄碰撞传感器.png",
-    "硬件组资料/N20 电机.png",
-    "硬件组资料/N20 紧固件尺寸.png",
-    "硬件组资料/N20 蜗杆电机.png",
-    "硬件组资料/N20紧固件孔径.png",
-    "机械组资料/M3打印件预留尺寸.png",
-    "重庆大学机器人训练大赛 (CRTC)参赛手册 V 0.2.md",
-    "CRTC战备资料.md",
-    "docs/二号机器人设计简述及开发日志.md",
-    "未命名.md",
-    "任务总览.md",
-    "docs/队员学习日志.md",
-    "docs/CRTC 2025 比赛策略设计.md",
     "docs/比赛策略设计流程图.canvas",
     "//Untitled.canvas",
     "战备待办事项/未命名.canvas"
