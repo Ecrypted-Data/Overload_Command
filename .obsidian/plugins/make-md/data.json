@@ -40,7 +40,9 @@
   "expandedSpaces": [
     "/",
     "//docs",
-    "//战备待办事项"
+    "//战备待办事项",
+    "//电控组资料",
+    "//硬件组资料"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
