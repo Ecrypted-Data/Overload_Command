@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f689c192b2f58633",
+        "id": "8777e1c3e8cc3611",
         "type": "tabs",
         "children": [
           {
-            "id": "2fd707c7915958d7",
+            "id": "d6d00a1b4e94220d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "154e48873a186ef6",
+            "id": "81e9cc0a8392a190",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b39f5a11d80c2545",
@@ -158,13 +158,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "0ea1ae3982d547af",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +189,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "2fd707c7915958d7",
+  "active": "d6d00a1b4e94220d",
   "lastOpenFiles": [
-    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "docs/电控开发日志_一号/DEVELOPMENT_LOG.md",
+    "docs/DEVELOPMENT_LOG.md",
     "docs/一号机器人设计简述及开发日志.md",
+    "docs/二号机器人设计简述及开发日志.md",
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "硬件组资料/硬件组资料.md",
     "电控组资料/电控组资料.md",
     "任务总览.md"
   ]
