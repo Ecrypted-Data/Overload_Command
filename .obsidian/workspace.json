@@ -23,8 +23,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "1号机器人 硬件电路拓扑图"
             }
+          },
+          {
+            "id": "eea4c84f10e53f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1号机器人 硬件电路拓扑图 的大纲"
+              "title": "conflict-files-obsidian-git 的大纲"
             }
           }
         ]
@@ -203,8 +218,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "eea4c84f10e53f2a",
   "lastOpenFiles": [
+    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
+    "conflict-files-obsidian-git.md",
     "电控组资料/DR920SR-PS SPI数据格式V1.41.pdf",
     "电控组资料/~$电控培训第一讲.pptx",
     "电控组资料/电控组资源.md",
@@ -224,16 +241,13 @@
     "README.md",
     "比赛初步设计方案收集.md",
     "硬件组资料/2号机器人 硬件电路拓扑图.canvas",
-    "conflict-files-obsidian-git.md",
     "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h",
     "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c",
     "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c",
-    "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3",
     "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2/PS2_README.md",
     "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo/SERVO_USAGE.md",
     "电控组资料/肖弋铭资料/1号最终版/Final.bak_ps2&servo/PS2_README.md",
     "机械组资料/现有标准件汇总.md",
-    "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "机械组资料/机械组资源.md",
     "机械组资料/滚珠轴承参数.jpg",
     "机械组资料/平头小螺丝参数.jpg",
