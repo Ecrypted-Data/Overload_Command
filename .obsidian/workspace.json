@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/一号机器人设计简述及开发日志.md",
+                "file": "docs/一号机器人综合设计与开发日志.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一号机器人设计简述及开发日志"
+              "title": "一号机器人综合设计与开发日志"
             }
           },
           {
@@ -248,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/一号机器人设计简述及开发日志.md",
+                "file": "docs/一号机器人综合设计与开发日志.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "一号机器人设计简述及开发日志 的大纲"
+              "title": "一号机器人综合设计与开发日志 的大纲"
             }
           }
         ]
@@ -278,18 +278,19 @@
   },
   "active": "f77cd25ecd189437",
   "lastOpenFiles": [
+    "docs/相关图示/相关图示.md",
+    "docs/文档评估标准.md",
+    "docs/一号机器人综合设计与开发日志.md",
+    "docs/相关图示/承接漏斗模块.png",
+    "docs/一号机器人设计简述及开发日志.md",
     "CRTC 2025 比赛策略分析.md",
     "动力电芯选型：成本与续航.md",
     "未确认 13942.crdownload",
-    "docs/一号机器人设计简述及开发日志.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "docs/电控开发日志_一号/DEVELOPMENT_LOG.md",
     "docs/相关图示/排斥铲斗模块.png",
     "docs/队员学习日志.md",
-    "docs/相关图示/相关图示.md",
     "docs/相关图示",
-    "docs/Untitled.md",
-    "承接漏斗模块.png",
     "docs/相关图示/主题弹仓模块.png",
     "2025CRTC参赛手册 v1.0.md",
     "docs/二号机器人设计简述及开发日志.md",
@@ -323,7 +324,6 @@
     "战备待办事项/机械组待办.md",
     "战备待办事项/电控组待办.md",
     "战备待办事项/战备待办事项.md",
-    "README.md",
     "机械组资料/滚珠轴承参数.jpg",
     "机械组资料/平头小螺丝参数.jpg",
     "docs/比赛策略设计流程图.canvas",
