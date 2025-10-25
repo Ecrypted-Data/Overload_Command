@@ -16,16 +16,11 @@
 		{"id":"7909b0b55f91a648","type":"text","text":"**PS2 遥控接收模块**","x":378,"y":370,"width":178,"height":60,"color":"5"},
 		{"id":"f55820e69780f7c6","type":"text","text":"**STM32**","x":405,"y":220,"width":106,"height":60,"color":"5"},
 		{"id":"6124651a980c349f","type":"text","text":"**DCE001降压模块** 2","x":27,"y":250,"width":192,"height":60,"color":"#004d25"},
-		{"id":"74bef061fd2e691a","type":"file","file":"硬件组资料/黄铜六角联轴器.png","x":338,"y":-641,"width":281,"height":230},
 		{"id":"9e9dfd215aeddd2b","type":"file","file":"硬件组资料/N20 电机.png","x":680,"y":-167,"width":275,"height":238},
-		{"id":"4d54ffa3fd7d452c","type":"file","file":"硬件组资料/轮胎尺寸.png","x":658,"y":-531,"width":320,"height":304},
-		{"id":"bde4196ce399ce91","type":"file","file":"硬件组资料/轮胎马达总长.png","x":1040,"y":-519,"width":338,"height":314},
 		{"id":"e9d9a9181b1f8b8b","type":"file","file":"硬件组资料/PS2 引脚定义.png","x":-173,"y":400,"width":400,"height":360},
 		{"id":"741f5a124208be00","type":"file","file":"电控组资料/PS2 按键定义.png","x":-656,"y":450,"width":400,"height":261},
 		{"id":"568f41b332fd5e6b","type":"file","file":"硬件组资料/DCE001 降压模块.png","x":-463,"y":99,"width":280,"height":243},
 		{"id":"e5c71f2781993346","type":"file","file":"硬件组资料/3节 电池盒尺寸.png","x":-826,"y":-648,"width":363,"height":351},
-		{"id":"b70dc34d90ee51e0","type":"file","file":"硬件组资料/N20 紧固件尺寸.png","x":1040,"y":-137,"width":297,"height":222},
-		{"id":"03ce935ef58920d0","type":"file","file":"硬件组资料/N20紧固件孔径.png","x":1378,"y":-136,"width":287,"height":221},
 		{"id":"3f44282c358a5e0f","type":"file","file":"硬件组资料/D4184 场效应管模块.png","x":-786,"y":85,"width":260,"height":270}
 	],
 	"edges":[

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3c965f6e2d56c773",
+        "id": "99c891d0d6862389",
         "type": "tabs",
         "children": [
           {
-            "id": "e8cee2ce6c3b8b1b",
+            "id": "ef0a1312d5da8ae7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -187,6 +191,21 @@
   },
   "active": "0ea1ae3982d547af",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "动力电芯选型：成本与续航.md",
+    "docs/相关图示/转移舱门模块.png",
+    "docs/相关图示/磁吸对接模块.png",
+    "docs/相关图示/相关图示.md",
+    "docs/相关图示/排斥铲斗模块.png",
+    "docs/相关图示/承接漏斗模块.png",
+    "docs/相关图示/主题弹仓模块.png",
+    "docs/相关图示",
+    "docs/文档评估标准.md",
+    "docs/一号机器人综合设计与开发日志.md",
+    "docs/一号机器人综合设计与开发日志 - 副本.md",
+    "docs/2号机器人 硬件拓扑图.png",
+    "docs/1号机器人 硬件拓扑图.png",
+    "CRTC 2025 比赛策略分析.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "一号 STM32 引脚定义.png",
     "电控组资料/电控组资料.md",

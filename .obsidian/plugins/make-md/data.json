@@ -39,7 +39,11 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
+<<<<<<< HEAD
     "//docs/docs/电控开发日志_一号"
+=======
+    "//docs"
+>>>>>>> origin/master
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
