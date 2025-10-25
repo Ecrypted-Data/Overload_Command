@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "docs/二号机器人设计简述及开发日志.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "二号机器人设计简述及开发日志 的大纲"
             }
           }
         ]
@@ -229,10 +229,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "20df0f3d6e4c5c35",
+  "active": "36f1ea7760e53ac5",
   "lastOpenFiles": [
-    "docs/CRTC2025 比赛策略分析与流程设计.md",
     "conflict-files-obsidian-git.md",
+    "docs/CRTC2025 比赛策略分析与流程设计.md",
     "一号 STM32 引脚定义.png",
     "docs/相关图示/磁吸对接模块.png",
     "docs/相关图示/1号机器人 硬件拓扑图.png",
@@ -240,7 +240,7 @@
     "docs/相关图示/相关图示.md",
     "docs/一号机器人综合设计与开发日志.md",
     "docs/二号机器人设计简述及开发日志.md",
-    "四驱底盘模块.png",
+    "docs/相关图示/四驱底盘模块.png",
     "docs/相关图示/收集滚筒模块.png",
     "docs/相关图示/翻斗弹仓模块.png",
     "docs/docs.md",
