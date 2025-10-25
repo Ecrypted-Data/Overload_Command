@@ -39,7 +39,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//docs"
+    "//docs",
+    "//硬件组资料",
+    "//docs/docs/相关图示"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
