@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8777e1c3e8cc3611",
+        "id": "3c965f6e2d56c773",
         "type": "tabs",
         "children": [
           {
-            "id": "d6d00a1b4e94220d",
+            "id": "e8cee2ce6c3b8b1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/电控开发日志_一号/DEVELOPMENT_LOG.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DEVELOPMENT_LOG"
+              "title": "新标签页"
             }
           }
         ]
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "81e9cc0a8392a190",
+            "id": "598d8318eda26087",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -189,15 +185,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d6d00a1b4e94220d",
+  "active": "598d8318eda26087",
   "lastOpenFiles": [
+    "一号 STM32 引脚定义.png",
+    "电控组资料/电控组资料.md",
     "docs/电控开发日志_一号/DEVELOPMENT_LOG.md",
     "docs/DEVELOPMENT_LOG.md",
     "docs/一号机器人设计简述及开发日志.md",
     "docs/二号机器人设计简述及开发日志.md",
     "硬件组资料/1号机器人 硬件电路拓扑图.canvas",
     "硬件组资料/硬件组资料.md",
-    "电控组资料/电控组资料.md",
     "任务总览.md"
   ]
 }
