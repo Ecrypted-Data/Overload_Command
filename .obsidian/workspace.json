@@ -104,7 +104,7 @@
             }
           },
           {
-            "id": "36f1ea7760e53ac5",
+            "id": "d929e8fbe85706a7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -229,8 +229,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "36f1ea7760e53ac5",
+  "active": "43e43160e80e8159",
   "lastOpenFiles": [
+    "docs/二号机器人设计简述及开发日志.md",
     "conflict-files-obsidian-git.md",
     "docs/CRTC2025 比赛策略分析与流程设计.md",
     "一号 STM32 引脚定义.png",
@@ -239,7 +240,6 @@
     "docs/相关图示/2号机器人 硬件拓扑图.png",
     "docs/相关图示/相关图示.md",
     "docs/一号机器人综合设计与开发日志.md",
-    "docs/二号机器人设计简述及开发日志.md",
     "docs/相关图示/四驱底盘模块.png",
     "docs/相关图示/收集滚筒模块.png",
     "docs/相关图示/翻斗弹仓模块.png",
