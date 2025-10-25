@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/二号机器人设计简述及开发日志.md",
+                "file": "docs/二号机器人综合设计及开发日志.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二号机器人设计简述及开发日志"
+              "title": "二号机器人综合设计及开发日志"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/二号机器人设计简述及开发日志.md",
+                "file": "docs/二号机器人综合设计及开发日志.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "二号机器人设计简述及开发日志 的大纲"
+              "title": "二号机器人综合设计及开发日志 的大纲"
             }
           }
         ]
@@ -229,9 +229,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "43e43160e80e8159",
+  "active": "20df0f3d6e4c5c35",
   "lastOpenFiles": [
-    "docs/二号机器人设计简述及开发日志.md",
+    "docs/二号机器人综合设计及开发日志.md",
     "conflict-files-obsidian-git.md",
     "docs/CRTC2025 比赛策略分析与流程设计.md",
     "一号 STM32 引脚定义.png",
