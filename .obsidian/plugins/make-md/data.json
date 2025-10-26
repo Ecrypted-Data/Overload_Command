@@ -38,7 +38,12 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
+<<<<<<< HEAD
     "/"
+=======
+    "/",
+    "//docs"
+>>>>>>> f81f84d58032005b73a08ecc64dfb45bc5f3eed4
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
