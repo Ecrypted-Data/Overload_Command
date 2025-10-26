@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "189ce68f5ef251ec",
+        "id": "594390eaa63d9f72",
         "type": "tabs",
         "children": [
           {
-            "id": "f488f5e4c1fa1c33",
+            "id": "edb5a15417230c66",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "598d8318eda26087",
+            "id": "43005047281b60fc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -185,7 +185,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "0ea1ae3982d547af",
+  "active": "edb5a15417230c66",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "动力电芯选型：成本与续航.md",

@@ -38,12 +38,7 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-<<<<<<< HEAD
-    "//docs/docs/电控开发日志_一号"
-=======
-    "//docs"
->>>>>>> origin/master
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -77,7 +72,7 @@
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "CRTC战备资料",
+  "systemName": "Overload_Command",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
