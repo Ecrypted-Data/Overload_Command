@@ -11,10 +11,14 @@
             "id": "edb5a15417230c66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/一号机器人综合设计与开发日志.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "一号机器人综合设计与开发日志"
             }
           }
         ]
@@ -185,7 +189,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "0ea1ae3982d547af",
+  "active": "edb5a15417230c66",
   "lastOpenFiles": [
     "队员学习日志.md",
     "机械组资料/一号机器人设计简述及开发日志.md",
