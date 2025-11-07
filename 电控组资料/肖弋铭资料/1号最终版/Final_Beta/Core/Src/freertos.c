@@ -25,7 +25,7 @@
  * - RTOS: FreeRTOS V10.3.1
  * - 输入设备: PS2 无线手柄（SPI通信）
  * - 执行器:
- *   1. 底部双电机（差速控制行走）- L298N_R IN1/IN2 (PA1/PB5), IN3/IN4 (PB4/PA2)
+ *   1. 底部双电机（差速控制行走）- L298N_L IN1/IN2 (PA0/PA1), L298N_R IN1/IN2 (PB4/PB5)
  *   2. 升降电机（垂直运动）       - L298N_R IN3/IN4 (PB0/PB1)
  *   3. 开合电机（机械爪夹持）     - L298N_L IN3/IN4 (PA2/PA3)
  *   4. 舵机（旋转关节）           - TIM1 CH1 (PA8)
@@ -566,8 +566,8 @@ void StartServoTask(void *argument)
  *         - 防止惯性滑行,提高定位精度
  *
  *         硬件连接：
- *         - 左轮: TIM2 CH2/CH3 (PA1/PA2) → L298N_R IN1/IN2
- *         - 右轮: TIM3 CH1/CH2 (PB4/PB5) → L298N_R IN3/IN4
+ *         - 左轮: TIM2 CH1/CH2 (PA0/PA1) → L298N_L IN1/IN2
+ *         - 右轮: TIM3 CH1/CH2 (PB4/PB5) → L298N_R IN1/IN2
  *         - PWM频率: 1kHz
  *
  *         系统简化记录（2025-11-07）：
@@ -579,15 +579,23 @@ void StartServoTask(void *argument)
 void StartMotorTask01(void *argument)
 {
     /* USER CODE BEGIN StartMotorTask01 */
-    // 启动TIM2 PWM通道2和3（左侧电机）
-    HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_2);
-    HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_3);
+    // 初始化PWM比较值为锁死状态（防止启动时电机乱动）
+    __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_1, 999);
+    __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_2, 999);
+    __HAL_TIM_SET_COMPARE(&htim3, TIM_CHANNEL_1, 999);
+    __HAL_TIM_SET_COMPARE(&htim3, TIM_CHANNEL_2, 999);
 
-    // 启动TIM3 PWM通道1和2（右侧电机）
+    // 启动TIM2 PWM通道1和2（左侧电机 - L298N_L IN1/IN2）
+    HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_1);
+    HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_2);
+
+    // 启动TIM3 PWM通道1和2（右侧电机 - L298N_R IN1/IN2）
     HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_1);
     HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_2);
 
-    // 数据包结构定义
+    // 确保初始状态为锁死
+    Motor_SetSpeedLeft(0);
+    Motor_SetSpeedRight(0); // 数据包结构定义
     typedef struct {
         uint32_t leftJoystick;    // 左摇杆
         uint32_t rightJoystick;   // 右摇杆
@@ -742,9 +750,16 @@ void StartMotorTask01(void *argument)
 void StartMotorTask02(void *argument)
 {
     /* USER CODE BEGIN StartMotorTask02 */
+    // 初始化PWM比较值为锁死状态
+    __HAL_TIM_SET_COMPARE(&htim3, TIM_CHANNEL_3, 999);
+    __HAL_TIM_SET_COMPARE(&htim3, TIM_CHANNEL_4, 999);
+
     // 启动TIM3 PWM通道3和4（升降电机）
     HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_3);
     HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_4);
+
+    // 确保初始状态为锁死
+    Motor_SetSpeedTop(0);
 
     uint16_t buttonData = 0;
     int16_t motorSpeed  = 0;
@@ -796,16 +811,23 @@ void StartMotorTask02(void *argument)
  *         功能演进记录（2025-11-07）：
  *         - 新增开合电机控制功能
  *         - 圆圈键从"锁止模式"改为"开合电机反转"
- *         - 引脚 PA2/PA3 新增为开合电机控制（L298N_L驱动器）
+ *         - 引脚 PA2/PA3 用于开合电机控制（L298N_L驱动器）
  *         - 使用新增函数 Motor_SetSpeedGrip() 进行控制
  */
 /* USER CODE END Header_StartMotorTask03 */
 void StartMotorTask03(void *argument)
 {
     /* USER CODE BEGIN StartMotorTask03 */
-    // 启动TIM2 PWM通道3和4（开合电机）
+    // 初始化PWM比较值为锁死状态
+    __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_3, 999);
+    __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_4, 999);
+
+    // 启动TIM2 PWM通道3和4（开合电机 - L298N_L IN3/IN4, PA2/PA3）
     HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_3);
     HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_4);
+
+    // 确保初始状态为锁死
+    Motor_SetSpeedGrip(0);
 
     uint16_t buttonData = 0;
     int16_t motorSpeed  = 0;

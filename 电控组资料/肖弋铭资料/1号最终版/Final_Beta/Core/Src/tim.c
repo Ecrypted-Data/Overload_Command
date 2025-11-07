@@ -33,7 +33,7 @@
  * │ 定时器  │ 通道         │ GPIO引脚    │ 频率    │ 控制对象       │
  * ├─────────┼──────────────┼─────────────┼─────────┼────────────────┤
  * │ TIM1    │ CH1          │ PA8         │ 50Hz    │ SG90舵机       │
- * │ TIM2    │ CH2/CH3      │ PA1/PA2     │ 1kHz    │ 左侧电机(L298N)│
+ * │ TIM2    │ CH1/CH2      │ PA0/PA1     │ 1kHz    │ 左侧电机(L298N)│
  * │ TIM2    │ CH3/CH4      │ PA2/PA3     │ 1kHz    │ 开合电机(L298N)│
  * │ TIM3    │ CH1/CH2      │ PB4/PB5     │ 1kHz    │ 右侧电机(L298N)│
  * │ TIM3    │ CH3/CH4      │ PB0/PB1     │ 1kHz    │ 升降电机(L298N)│
@@ -52,16 +52,16 @@
  * - speed = 0  : 锁死（IN1=HIGH, IN2=HIGH）主动刹车,快速停车
  *
  * 引脚映射变更记录（2025-11-07）：
- * - 底部左侧电机: PA1(IN1) / PA2(IN2) → TIM2 CH2/CH3
- * - 底部右侧电机: PB4(IN3) / PB5(IN4) → TIM3 CH1/CH2
- * - 升降电机:     PB0(IN3) / PB1(IN4) → TIM3 CH3/CH4
+ * - 底部左侧电机: PA0(IN1) / PA1(IN2) → TIM2 CH1/CH2 (L298N_L)
+ * - 底部右侧电机: PB4(IN1) / PB5(IN2) → TIM3 CH1/CH2 (L298N_R)
+ * - 升降电机:     PB0(IN3) / PB1(IN4) → TIM3 CH3/CH4 (L298N_R)
  * - 开合电机(新): PA2(IN3) / PA3(IN4) → TIM2 CH3/CH4 (L298N_L)
  *
  * 注意事项：
  * - 舵机PWM必须是50Hz（20ms周期）,脉宽0.5ms~2.5ms对应0°~180°
  * - 电机PWM使用1kHz,频率太低会有啸叫,太高会降低效率
  * - 主动刹车模式(IN1=IN2=HIGH)比自由滑行(IN1=IN2=LOW)制动效果好
- * - PA2引脚复用于两个功能(底部电机IN2和开合电机IN3),需确保硬件设计正确
+ * - 所有引脚均无冲突：L298N_L使用PA0-PA3，L298N_R使用PB0/PB1/PB4/PB5
  */
 
 /* USER CODE END 0 */
@@ -389,13 +389,13 @@ void Servo_SetAngle(uint16_t angle)
 }
 
 /**
- * @brief  控制左侧电机（TIM2 CH2/CH3 -> PA1/PA2）
+ * @brief  控制左侧电机（TIM2 CH1/CH2 -> PA0/PA1）
  * @param  speed: 速度值 (-127 到 +127)
  *                负值：反转，正值：正转，0：锁死（主动刹车）
  * @retval None
  * @note   TIM2: Prescaler=71, Period=999
  *         PWM频率 = 72MHz / 72 / 1000 = 1kHz
- *         L298N控制逻辑：
+ *         L298N_L控制逻辑：
  *         IN1=HIGH, IN2=LOW  -> 正转
  *         IN1=LOW,  IN2=HIGH -> 反转
  *         IN1=HIGH, IN2=HIGH -> 锁死（主动刹车）
@@ -406,19 +406,19 @@ void Motor_SetSpeedLeft(int16_t speed)
     uint16_t pwm_value;
 
     if (speed > 0) {
-        // 正转：IN1(PA1/CH2)=PWM, IN2(PA2/CH3)=0
+        // 正转：IN1(PA0/CH1)=PWM, IN2(PA1/CH2)=0
         pwm_value = (speed > 127) ? 999 : (speed * 999 / 127);
-        __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_2, pwm_value);
-        __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_3, 0);
-    } else if (speed < 0) {
-        // 反转：IN1(PA1/CH2)=0, IN2(PA2/CH3)=PWM
-        pwm_value = (speed < -127) ? 999 : ((-speed) * 999 / 127);
+        __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_1, pwm_value);
         __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_2, 0);
-        __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_3, pwm_value);
+    } else if (speed < 0) {
+        // 反转：IN1(PA0/CH1)=0, IN2(PA1/CH2)=PWM
+        pwm_value = (speed < -127) ? 999 : ((-speed) * 999 / 127);
+        __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_1, 0);
+        __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_2, pwm_value);
     } else {
         // 锁死：IN1=999, IN2=999（主动刹车）
+        __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_1, 999);
         __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_2, 999);
-        __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_3, 999);
     }
 }
 
@@ -491,15 +491,15 @@ void Motor_SetSpeedTop(int16_t speed)
 }
 
 /**
- * @brief  控制开合电机（TIM2 CH1/CH4 -> PA0/PA3）
+ * @brief  控制开合电机（TIM2 CH3/CH4 -> PA2/PA3）
  * @param  speed: 速度值 (-127 到 +127)
- *                负值：反转，正值：正转，0：锁死（主动刹车）
+ *                负值：反转（关闭），正值：正转（打开），0：锁死（主动刹车）
  * @retval None
  * @note   TIM2: Prescaler=71, Period=999
  *         PWM频率 = 72MHz / 72 / 1000 = 1kHz
  *         L298N_L控制逻辑：
- *         IN3=HIGH, IN4=LOW  -> 正转
- *         IN3=LOW,  IN4=HIGH -> 反转
+ *         IN3=HIGH, IN4=LOW  -> 正转（打开）
+ *         IN3=LOW,  IN4=HIGH -> 反转（关闭）
  *         IN3=HIGH, IN4=HIGH -> 锁死（主动刹车）
  *         IN3=LOW,  IN4=LOW  -> 自由滑行（不使用）
  */
@@ -508,12 +508,12 @@ void Motor_SetSpeedGrip(int16_t speed)
     uint16_t pwm_value;
 
     if (speed > 0) {
-        // 正转：IN3(PA2/CH3)=PWM, IN4(PA3/CH4)=0
+        // 正转（打开）：IN3(PA2/CH3)=PWM, IN4(PA3/CH4)=0
         pwm_value = (speed > 127) ? 999 : (speed * 999 / 127);
         __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_3, pwm_value);
         __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_4, 0);
     } else if (speed < 0) {
-        // 反转：IN3(PA2/CH3)=0, IN4(PA3/CH4)=PWM
+        // 反转（关闭）：IN3(PA2/CH3)=0, IN4(PA3/CH4)=PWM
         pwm_value = (speed < -127) ? 999 : ((-speed) * 999 / 127);
         __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_3, 0);
         __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_4, pwm_value);
@@ -522,6 +522,4 @@ void Motor_SetSpeedGrip(int16_t speed)
         __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_3, 999);
         __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_4, 999);
     }
-}
-
-/* USER CODE END 1 */
+} /* USER CODE END 1 */
