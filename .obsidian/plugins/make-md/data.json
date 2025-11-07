@@ -38,8 +38,7 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//docs"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -51,8 +50,6 @@
     "_assets",
     "_blocks"
   ],
-  "newFileLocation": "root",
-  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
@@ -71,11 +68,11 @@
   "indexSVG": false,
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "releaseNotesPrompt": 0.8,
+  "releaseNotesPrompt": 0.999,
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "Vault",
+  "systemName": "Overload_Command",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
@@ -102,7 +99,7 @@
     "emojiTriggerChar": ":",
     "flowState": false
   },
-  "firstLaunch": false,
+  "firstLaunch": true,
   "notesPreview": false,
   "editStickerInSidebar": true,
   "overrideNativeMenu": false,
