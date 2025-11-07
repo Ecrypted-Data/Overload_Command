@@ -768,7 +768,9 @@ void StartMotorTask02(void *argument)
 
     /* Infinite loop */
     for (;;) {
+        // 尝试从队列获取按键数据（非阻塞）
         if (osMessageQueueGet(motorQueue02Handle, &buttonData, NULL, 0) == osOK) {
+            // 成功获取数据，解析按键状态
             uint8_t triangle_pressed = (buttonData & 0x01) ? 1 : 0;
             uint8_t x_pressed        = (buttonData & 0x02) ? 1 : 0;
 
@@ -781,9 +783,10 @@ void StartMotorTask02(void *argument)
             } else {
                 motorSpeed = 0;
             }
-
-            Motor_SetSpeedTop(motorSpeed);
         }
+
+        // 无论是否获取到新数据，都执行电机控制
+        Motor_SetSpeedTop(motorSpeed);
 
         osDelay(10);
     }
@@ -836,7 +839,9 @@ void StartMotorTask03(void *argument)
 
     /* Infinite loop */
     for (;;) {
+        // 尝试从队列获取按键数据（非阻塞）
         if (osMessageQueueGet(motorQueue03Handle, &buttonData, NULL, 0) == osOK) {
+            // 成功获取数据，解析按键状态
             uint8_t square_pressed = (buttonData & 0x01) ? 1 : 0; // 方形键
             uint8_t circle_pressed = (buttonData & 0x02) ? 1 : 0; // 圆圈键
 
@@ -849,9 +854,10 @@ void StartMotorTask03(void *argument)
             } else {
                 motorSpeed = 0;
             }
-
-            Motor_SetSpeedGrip(motorSpeed);
         }
+
+        // 无论是否获取到新数据，都执行电机控制
+        Motor_SetSpeedGrip(motorSpeed);
 
         osDelay(10);
     }
